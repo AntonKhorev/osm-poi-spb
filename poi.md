@@ -24,9 +24,44 @@
 	website=http://www.jagerhaus.ru/
 	contact:vk=https://vk.com/jagerhaus
 	old_name=Jager Haus
+	operator=ООО «Егерь»
+
+Альтернативные теги:
+
 	opening_hours=Su-Th 11:30-01:00, Fr-Sa 11:30-06:00
+	opening_hours=Su-Th 11:30-01:00, Fr-Sa 11:30-02:30
 
 * `website` можно уточнить в списке http://www.jagerhaus.ru/#contacts
+
+## Lamoda
+
+	name=Lamoda
+	shop=clothes
+	reservation=required
+	website=https://www.lamoda.ru/
+	contact:vk=https://vk.com/lamodaru
+
+* можно проверить на карте https://www.lamoda.ru/delivery/
+
+## Pita's
+
+	name=Pita's
+	amenity=fast_food
+	website=http://www.pitas.ru/
+	contact:vk=https://vk.com/pitasstreetfood
+	opening_hours=10:00-23:00
+	operator=ООО «Питас Стрит»
+
+* можно проверить в списке http://www.pitas.ru/addresses/
+
+## SПБ
+
+	name=SПБ
+	amenity=bar
+	website=http://www.barspb.ru/
+	contact:vk=https://vk.com/barspb_official
+
+* можно проверить на карте http://www.barspb.ru/contacts.html
 
 ## Горячие туры
 
@@ -59,6 +94,15 @@
 
 * `website` можно уточнить на карте https://key.ru/magaziny/
 
+## Лазерный Доктор
+
+	name=Лазерный Доктор
+	amenity=doctors
+	website=https://laserdoctor.ru/
+	contact:vk=https://vk.com/laserdoctor
+
+* `website` можно уточнить на карте и в списке https://laserdoctor.ru/contacts/
+
 ## На Парах
 
 	name=На Парах
@@ -86,6 +130,16 @@
 
 * можно проверить в списке http://пельмения.рф/contacts
 
+## Пончкофф
+
+	name=Пончкофф
+	amenity=cafe
+	website=https://www.ponchkoff.ru/
+	contact:vk=https://vk.com/ponchkoff
+	operator=ООО «Ганеша»
+
+* можно проверить в списке https://www.ponchkoff.ru/shops
+
 ## РЕСО-Гарантия
 
 	name=РЕСО-Гарантия
@@ -96,6 +150,19 @@
 	brand:wikidata=Q4386516
 
 * можно проверить на карте http://www.reso.ru/About/Contacts/
+
+## Рив Гош
+
+	name=Рив Гош
+	shop=cosmetics
+	website=http://www.rivegauche.ru/
+	contact:vk=https://vk.com/rivegauche
+	opening_hours=10:00-21:00
+	operator=ООО «АромаЛюкс»
+	brand=Рив Гош
+	brand:wikidata=Q4394330
+
+* `website` можно уточнить на карте и в списке http://www.rivegauche.ru/shops/cities/sankt-peterburg
 
 ## Серебро
 
