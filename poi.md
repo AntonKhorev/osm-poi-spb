@@ -17,12 +17,12 @@
 ## Calzedonia
 
 	name=Calzedonia
+	brand=Calzedonia
+	brand:wikidata=Q1027874
 	shop=clothes
 	clothes=underwear
 	website=http://ru.calzedonia.com/
 	contact:vk=https://vk.com/calzedoniaofficial
-	brand=Calzedonia
-	brand:wikidata=Q1027874
 
 * `website` можно уточнить поиском на https://ru.calzedonia.com/custserv/locate_store.cmd
 
@@ -41,6 +41,14 @@
 	opening_hours=Su-Th 11:30-01:00, Fr-Sa 11:30-02:30
 
 * `website` можно уточнить в списке http://www.jagerhaus.ru/#contacts
+
+## K-9
+
+	name=K-9
+	shop=pet
+	contact:vk=https://vk.com/zoo_k9
+
+* `contact:vk` можно уточнить для некоторых точек
 
 ## Lamoda
 
@@ -82,6 +90,18 @@
 
 * `website` можно уточнить в списке http://velardi.ru/content/blogsection/6/44/
 
+## Zeiss
+
+	name=Zeiss
+	brand=Zeiss
+	brand:wikidata=Q282186
+	shop=optician
+	website=http://newglance.ru/
+	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
+	operator=ООО «Зайди — увидишь»
+
+* `website` можно уточнить в списке http://newglance.ru/nashi-salony/
+
 ## Архитектор красоты
 
 	name=Архитектор красоты
@@ -102,6 +122,31 @@
 
 * `website` можно уточнить на карте https://www.bookvoed.ru/shops
 * `website` можно уточнить в списке https://www.bookvoed.ru/shops#addresses
+
+## Булочные Ф. Вольчека
+
+	name=Булочные Ф. Вольчека
+	shop=bakery
+	website=http://fvolchek.ru/
+	contact:vk=https://vk.com/f.volchek
+	opening_hours=08:00-22:00
+
+* можно проверить в списке http://fvolchek.ru/
+* возможно различное написание названия
+
+## Великолукский мясокомбинат
+
+	name=Великолукский мясокомбинат
+	brand=Великолукский мясокомбинат
+	brand:wikidata=Q18401767
+	shop=butcher
+
+Альтернативные теги:
+
+	operator=ООО «Меркурий»
+
+* http://www.vlmk.spb.ru/ не подходит, так как относится к самому комбинату
+* https://vk.com/vlmkspb не подходит, так как относится к самому комбинату... хотя кое-что про магазины там говорится
 
 ## Венская кофейня
 
@@ -148,6 +193,18 @@ wheelchair=yes
 
 * `website` можно уточнить в списке и на карте http://dvepalochki.ru/restaurants/
 
+## Дикси
+
+	name=Дикси
+	brand=Дикси
+	brand:wikidata=Q4161561
+	shop=supermarket
+	website=https://dixy.ru/
+	contact:vk=https://vk.com/dixyclub
+	operator=АО «Дикси Юг»
+
+* можно проверить на карте https://dixy.ru/nearest-shop/
+
 ## Зайди — увидишь
 
 	name=Зайди — увидишь
@@ -156,6 +213,15 @@ wheelchair=yes
 	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
 
 * `website` можно уточнить в списке http://newglance.ru/nashi-salony/
+
+## Империя платья
+
+	name=Империя платья
+	shop=clothes
+	website=http://империяплатья.рф/
+	contact:vk=https://vk.com/imperiaplatya
+
+* можно проверить в списке http://империяплатья.рф/page/adresa-magazinov
 
 ## Калейдоскоп напитков мира
 
@@ -182,8 +248,8 @@ wheelchair=yes
 ## Кей
 
 	name=Кей
-	brand:wikidata=Q4218938
 	brand=Кей
+	brand:wikidata=Q4218938
 	shop=computer
 	website=https://key.ru/
 	contact:vk=https://vk.com/key.russia
@@ -261,6 +327,14 @@ wheelchair=yes
 
 * `website` можно уточнить на карте https://orteka.ru/salon/
 
+## Пактор
+
+	name=Пактор
+	shop=clothes
+	website=http://pactor.ru/
+
+* `website` можно уточнить в списке http://pactor.ru/shops/
+
 ## Пельмения
 
 	name=Пельмения
@@ -281,13 +355,42 @@ wheelchair=yes
 
 * `website` можно уточнить в списке http://www.aptekapp.ru/pharmacies?_filter=1&city[]=3800&web[]=69800
 
+## Петербургский стиль
+
+	name=Петербургский стиль
+	shop=clothes
+	website=http://peterstyle.ru/
+	contact:vk=https://vk.com/peterstylespb
+	operator=ООО «Петербургский стиль»
+
+* можно проверить в списке http://peterstyle.ru/ru/content/14-gde-kupit
+
+## Петроторг
+
+	name=Петроторг
+	shop=variety_store
+	website=http://www.петроторг-атк.рф/
+	contact:vk=https://vk.com/atk_petrotorg
+
+* можно проверить в списке и на карте http://www.петроторг-атк.рф/shops/
+
+## Подружка
+
+	name=Подружка
+	shop=cosmetics
+	website=https://www.podrygka.ru/
+	contact:vk=https://vk.com/podrygkashop
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить в списке https://www.podrygka.ru/shoplist/?arrShopsSmartFilter_68=450215437&arrShopsSmartFilter_68=450215437&arrShopsSmartFilter_31=0&arrShopsSmartFilter_101=0&arrShopsSmartFilter_71=0&arrShopsSmartFilter_37=&arrShopsSmartFilter_36=0&set_filter=y
+
 ## Полушка
 
 	name=Полушка
-	shop=supermarket
-	website=http://www.polushka.info/
 	brand=Полушка
 	brand:wikidata=Q4371080
+	shop=supermarket
+	website=http://www.polushka.info/
 	opening_hours=24/7
 
 * `website` можно уточнить в списке http://www.polushka.info/spb-and-len-obl
@@ -302,6 +405,22 @@ wheelchair=yes
 
 * можно проверить в списке https://www.ponchkoff.ru/shops
 
+## Пятёрочка
+
+	name=Пятёрочка
+	brand=Пятёрочка
+	brand:wikidata=Q1768969
+	shop=supermarket
+	website=https://5ka.ru/
+	contact:vk=https://vk.com/club19098821
+	operator=ООО «Агроторг»
+
+Альтернативные теги:
+
+	opening_hours=09:00-23:00
+
+* можно проверить на карте https://5ka.ru/stores/
+
 ## Радуга
 
 	name=Радуга
@@ -315,22 +434,22 @@ wheelchair=yes
 ## РЕСО-Гарантия
 
 	name=РЕСО-Гарантия
+	brand=РЕСО-Гарантия
+	brand:wikidata=Q4386516
 	office=insurance
 	website=http://www.reso.ru/
 	contact:vk=https://vk.com/reso_garantia
-	brand=РЕСО-Гарантия
-	brand:wikidata=Q4386516
 
 * можно проверить на карте http://www.reso.ru/About/Contacts/
 
 ## Ренессанс Кредит
 
 	name=Ренессанс Кредит
+	brand=Ренессанс Кредит
+	brand:wikidata=Q16691879
 	amenity=bank
 	website=https://rencredit.ru/
 	contact:vk=https://vk.com/renaissancecredit
-	brand=Ренессанс Кредит
-	brand:wikidata=Q16691879
 	operator=Коммерческий банк «Ренессанс Кредит» (ООО)
 	operator:wikidata=Q16691879
 
@@ -339,13 +458,13 @@ wheelchair=yes
 ## Рив Гош
 
 	name=Рив Гош
+	brand=Рив Гош
+	brand:wikidata=Q4394330
 	shop=cosmetics
 	website=http://www.rivegauche.ru/
 	contact:vk=https://vk.com/rivegauche
 	opening_hours=10:00-21:00
 	operator=ООО «АромаЛюкс»
-	brand=Рив Гош
-	brand:wikidata=Q4394330
 
 * `website` можно уточнить на карте и в списке http://www.rivegauche.ru/shops/cities/sankt-peterburg
 
@@ -361,13 +480,13 @@ wheelchair=yes
 ## Сбербанк
 
 	name=Сбербанк
+	brand=Сбербанк
+	brand:wikidata=Q205012
 	amenity=bank
 	website=http://www.sberbank.ru/
 	contact:vk=https://vk.com/sberbank
 	operator=ПАО «Сбербанк России»
 	operator:wikidata=Q205012
-	brand=Сбербанк
-	brand:wikidata=Q205012
 
 * можно проверить на карте http://www.sberbank.ru/ru/about/today/oib
 
@@ -381,6 +500,25 @@ wheelchair=yes
 	contact:vk=https://vk.com/club11445015
 
 * можно проверить на карте https://www.svyaznoy.ru/shops
+
+## Север-Метрополь
+
+	name=Север-Метрополь
+	amenity=cafe
+	shop=pastry
+	website=http://sever.spb.su/
+
+Альтернативные теги:
+
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить в списке http://sever.spb.su/wheretobuy/
+* `website` можно уточнить на карте http://sever.spb.su/wheretobuy/?city_map
+* https://vk.com/dostavkasever не подходит, так как там только про заказ тортов
+* на Невском 44 находится собственно *Север*
+* на Садовой 22 находится собственно *Метрополь*
+* также есть сайт http://metropol.spb.su/
+* также есть редирект с http://tort.spb.ru/
 
 ## Серебро
 
@@ -432,6 +570,16 @@ wheelchair=yes
 
 * `website` можно уточнить на карте http://spektr-ru.com/adresa-magazinov
 
+## СуперХостел
+
+	name=СуперХостел
+	int_name=SuperHostel
+	tourism=hostel
+	website=https://superhostel.ru/
+	contact:vk=https://vk.com/superhostel
+
+* `website` можно уточнить в списке и на карте https://superhostel.ru/
+
 ## Суши Wok
 
 	name=Суши Wok
@@ -451,6 +599,17 @@ wheelchair=yes
 	operator=ООО «Трик»
 
 * можно проверить в списке https://www.trikstore.ru/shops/
+
+## Улыбка радуги
+
+	name=Улыбка радуги
+	shop=chemist
+	website=https://www.r-ulybka.ru/
+	contact:vk=https://vk.com/ulybka_radugi
+	opening_hours=09:00-22:00
+	operator=ООО «Петроградское»
+
+* можно проверить на карте https://www.r-ulybka.ru/u-store/
 
 ## Фантазия
 
