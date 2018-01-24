@@ -7,6 +7,16 @@
 
 * `website` можно уточнить на карте https://zoloto585.ru/about/address/
 
+## Baggins
+
+	name=Baggins
+	shop=bag
+	website=https://www.baggins.ru/krasnoarmeiskaya
+	contact:vk=https://vk.com/bagginsru
+	opening_hours=Mo-Sa 10:00-20:00; Su 10:00-19:00
+
+* `website` можно уточнить в списке https://www.baggins.ru/shops
+
 ## Beer House
 
 	name=Beer House
@@ -60,6 +70,24 @@
 
 * можно проверить на карте https://www.lamoda.ru/delivery/
 
+## Marko
+
+	name=Marko
+	shop=shoes
+	website=http://www.markoclub.ru/
+	contact:vk=https://vk.com/marko_obuv
+
+* можно проверить в списке http://www.markoclub.ru/belobuvshops
+
+## OQ
+
+	name=OQ
+	shop=copyshop
+	website=http://copy.spb.ru/
+	contact:vk=https://vk.com/copyspbru
+
+* `website` можно уточнить на карте и в списке http://copy.spb.ru/about/kontakti/
+
 ## Pita's
 
 	name=Pita's
@@ -80,6 +108,19 @@
 
 * можно проверить на карте http://www.barspb.ru/contacts.html
 
+## Tele2
+
+	name=Tele2
+	brand=Tele2
+	brand:wikidata=Q309865
+	shop=mobile_phone
+	office=telecommunication
+	website=https://spb.tele2.ru/
+	contact:vk=https://vk.com/tele2spb
+	opening_hours=10:00-21:00
+
+* можно проверить на карте https://spb.tele2.ru/offices
+
 ## Velardi
 
 	name=Velardi
@@ -89,6 +130,15 @@
 	opening_hours=09:00-21:00
 
 * `website` можно уточнить в списке http://velardi.ru/content/blogsection/6/44/
+
+## Vintage
+
+	name=Vintage
+	shop=tea
+	website=http://tea-coffee.info/
+	contact:vk=https://vk.com/tm_vintage
+
+* можно проверить в списке http://tea-coffee.info/shops/sankt-peterburg-i-lo/
 
 ## Zeiss
 
@@ -101,6 +151,14 @@
 	operator=ООО «Зайди — увидишь»
 
 * `website` можно уточнить в списке http://newglance.ru/nashi-salony/
+
+## Александр Недвижимость
+
+	name=Александр Недвижимость
+	office=estate_agent
+	website=https://anspb.ru/
+
+* `website` можно уточнить в списке и на карте https://anspb.ru/contacts.php
 
 ## Архитектор красоты
 
@@ -117,7 +175,7 @@
 	brand=Буквоед
 	brand:wikidata=Q4098549
 	shop=books
-	website=https://www.bookvoed.ru/shop?id=5
+	website=https://www.bookvoed.ru/
 	contact:vk=https://vk.com/bookvoed
 
 * `website` можно уточнить на карте https://www.bookvoed.ru/shops
@@ -133,6 +191,20 @@
 
 * можно проверить в списке http://fvolchek.ru/
 * возможно различное написание названия
+
+## Бургер Кинг
+
+	name=Бургер Кинг
+	int_name=Burger King
+	brand=Burger King
+	brand:wikidata=Q177054
+	amenity=fast_food
+	website=https://burgerking.ru/
+	contact:vk=https://vk.com/burgerking
+	opening_hours=06:00-03:00
+	operator=ООО «Бургер Рус»
+
+* можно проверить на карте https://burgerking.ru/restaurants
 
 ## Великолукский мясокомбинат
 
@@ -205,6 +277,20 @@ wheelchair=yes
 
 * можно проверить на карте https://dixy.ru/nearest-shop/
 
+## Доктор Столетов
+
+	name=Доктор Столетов
+	amenity=pharmacy
+	website=http://www.stoletov.ru/
+	contact:vk=https://vk.com/drstoletov
+
+Альтернативные теги:
+
+	opening_hours=24/7
+	operator=ООО «Эркафарм Санкт-Петербург»
+
+* можно проверить на карте http://www.stoletov.ru/pharmacy/?city=21029
+
 ## Зайди — увидишь
 
 	name=Зайди — увидишь
@@ -222,6 +308,15 @@ wheelchair=yes
 	contact:vk=https://vk.com/imperiaplatya
 
 * можно проверить в списке http://империяплатья.рф/page/adresa-magazinov
+
+## Искусница
+
+	name=Искусница
+	shop=sewing
+	website=https://iskusnica.spb.ru/
+	contact:vk=https://vk.com/iskusnicaspbru
+
+* `website` можно уточнить в списке и на карте https://iskusnica.spb.ru/shops/
 
 ## Калейдоскоп напитков мира
 
@@ -257,6 +352,40 @@ wheelchair=yes
 
 * `website` можно уточнить на карте https://key.ru/magaziny/
 
+## Комус
+
+	name=Комус
+	brand=Комус
+	brand:wikidata=Q4230314
+	shop=stationery
+	website=https://www.komus.ru/store/sankt-peterburg/tts-izmajlovskij/s/31/
+	contact:vk=https://vk.com/komus_club
+	opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00
+	operator=ООО «Комус-Петербург»
+
+* `website` можно уточнить на карте и в списке https://www.komus.ru/store/
+
+## Кофеварим
+
+	name=Кофеварим
+	amenity=cafe
+	contact:vk=https://vk.com/clubkofevarim
+	opening_hours=07:00-23:00
+
+* можно проверить в списке https://vk.com/clubkofevarim
+* для некоторых точек может быть более правильно `amenity=fast_food`
+
+## Краsивая
+
+	name=Краsивая
+	alt_name=Красивая
+	shop=clothes
+	clothes=women
+	website=http://krasarf.ru/
+	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
+
+* можно проверить в списке http://krasarf.ru/feedback
+
 ## Крилони
 
 	name=Крилони
@@ -289,6 +418,15 @@ wheelchair=yes
 
 * `website` можно уточнить в списке http://spb.lindfors.ru/restorany
 
+## Машина времени
+
+	name=Машина времени
+	craft=watchmaker
+	website=https://www.mv-time.ru/
+	opening_hours=10:00-21:00
+
+* можно проверить в списке https://www.mv-time.ru/contacts
+
 ## МегаФон
 
 	name=МегаФон
@@ -316,6 +454,16 @@ wheelchair=yes
 	contact:vk=https://vk.com/netto_shops
 
 * `website` можно уточнить в списке http://www.netto-shops.ru/store/
+
+## Оксфордстрит
+
+	name=Оксфордстрит
+	shop=clothes
+	website=http://oxford-street.ru/
+	contact:vk=https://vk.com/oxfordstreetspb
+	opening_hours=10:00-21:00
+
+* можно проверить на карте и в списке http://oxford-street.ru/contacts/
 
 ## Ортека
 
@@ -373,6 +521,15 @@ wheelchair=yes
 	contact:vk=https://vk.com/atk_petrotorg
 
 * можно проверить в списке и на карте http://www.петроторг-атк.рф/shops/
+
+## Пингвин
+
+	name=Пингвин
+	shop=dry_cleaning
+	website=http://химчисткапингвин.рф/
+	contact:vk=https://vk.com/club11111586
+
+* можно проверить на карте и в списке http://химчисткапингвин.рф/#tabs_container_map
 
 ## Подружка
 
@@ -520,6 +677,16 @@ wheelchair=yes
 * также есть сайт http://metropol.spb.su/
 * также есть редирект с http://tort.spb.ru/
 
+## Семишагофф
+
+	name=Семишагофф
+	website=https://semishagoff.org/
+	contact:vk=https://vk.com/7shagoff
+	shop=supermarket
+	opening_hours=09:00-23:00
+
+* можно проверить в списке https://vk.com/7shagoff
+
 ## Серебро
 
 	name=Серебро
@@ -590,11 +757,24 @@ wheelchair=yes
 
 * можно проверить в списке https://sushiwok.ru/spb/addresses/
 
+## Тарелка столовая
+
+	name=Тарелка столовая
+	amenity=fast_food
+	fast_food=cafeteria
+	website=http://tarelkas.ru/
+	contact:vk=https://vk.com/tarelka_st
+	opening_hours=08:00-23:00
+	operator=ООО «Арес»
+
+* `website` можно уточнить в списке http://tarelkas.ru/cafes/
+* `website` можно уточнить на карте http://tarelkas.ru/cafes/map/
+
 ## ТриКотаЖ
 
 	name=ТриКотаЖ
 	shop=clothes
-	website=http://www.trikstore.ru/
+	website=https://www.trikstore.ru/
 	contact:vk=https://vk.com/trikstore
 	operator=ООО «Трик»
 
@@ -611,6 +791,16 @@ wheelchair=yes
 
 * можно проверить на карте https://www.r-ulybka.ru/u-store/
 
+## Фаворит
+
+	name=Фаворит
+	shop=shoes
+	website=http://obuv-favorit.ru/
+	opening_hours=10:00-21:00
+
+* можно проверить в списке http://obuv-favorit.ru/adresa_magazinov
+* `website` можно было бы уточнить, но страницы магазинов почти пустые
+
 ## Фантазия
 
 	name=Фантазия
@@ -618,5 +808,36 @@ wheelchair=yes
 	website=https://eliteflower.ru/
 	contact:vk=https://vk.com/eliteflower
 	opening_hours=24/7
+	operator=ООО «Фантазия-4»
 
 * можно проверить на карте https://eliteflower.ru/kontakty/
+
+## Чайникофф
+
+	name=Чайникофф
+	amenity=cafe
+	website=http://www.chainikoff.ru/
+	contact:vk=https://vk.com/chainikoff_cafe
+	opening_hours=24/7
+
+* можно проверить на карте и в списке http://www.chainikoff.ru/coffeemap/sankt-peterburg.html
+
+## Чебуroom
+
+	name=Чебуroom
+	amenity=cafe
+	website=https://cheburoom.ru/
+	contact:vk=https://vk.com/cheburoom
+
+* можно проверить в списке и на карте https://cheburoom.ru/#b6
+
+## Штолле
+
+	name=Штолле
+	amenity=cafe
+	website=https://spb.stolle.ru/
+	contact:vk=https://vk.com/stollerussia
+	opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00
+	operator=ООО «Столовая №63»
+
+* `website` можно уточнить на карте и в списке https://spb.stolle.ru/addresses
