@@ -10,6 +10,17 @@
 
 * `website` можно уточнить на карте и в списке http://www.220-volt.ru/shop/1/city-7800000000000/
 
+## 36,6
+
+	name=36,6
+	brand=36,6
+	brand:wikidata=Q226889
+	amenity=pharmacy
+	website=https://366.ru/
+	contact:vk=https://vk.com/apteka36i6
+
+* `website` можно уточнить на карте https://366.ru/apteki/map/
+
 ## 585 Gold
 
 	name=585 Gold
@@ -45,6 +56,14 @@
 	amenity=pub
 	website=http://beerhousebar.ru/
 	contact:vk=https://vk.com/beerhousebar
+	opening_hours=12:00+
+	operator=ООО «Юник»
+
+Альтернативные теги:
+
+	name=Beer House Staff
+
+* можно проверить на карте и в списке http://beerhousebar.ru/
 
 ## Calzedonia
 
@@ -58,6 +77,18 @@
 
 * `website` можно уточнить поиском на https://ru.calzedonia.com/custserv/locate_store.cmd
 
+## English First
+
+	name=English First
+	brand=EF Education First
+	brand:wikidata=Q661869
+	amenity=language_school
+	website=https://www.ef.ru/
+	contact:vk=https://vk.com/englishfirstrussia
+
+* `website` (для взрослых) можно уточнить в списке и на карте https://www.ef.ru/englishfirst/adults/centers/st-petersburg/
+* `website` (для детей) можно уточнить в списке и на карте https://www.ef.ru/englishfirst/kids/city/stpetersburg
+
 ## Fix Price
 
 	name=Fix Price
@@ -69,6 +100,16 @@
 	opening_hours=10:00-22:00
 
 * можно проверить на карте и в списке https://fix-price.ru/buyers/shops/sankt-peterburg/
+
+## Greenbox
+
+	name=Greenbox
+	amenity=cafe
+	website=http://greenboxes.ru/
+	contact:vk=https://vk.com/greenbox_spb
+	opening_hours=08:00-23:00
+
+* можно проверить на карте и в списке http://greenboxes.ru/#Cont
 
 ## Jäger
 
@@ -93,6 +134,17 @@
 	contact:vk=https://vk.com/zoo_k9
 
 * `contact:vk` можно уточнить для некоторых точек
+
+## Kerama Marazzi
+
+	name=Kerama Marazzi
+	shop=tiles
+	website=http://spb.kerama-marazzi.com/
+	contact:vk=https://vk.com/keramamarazzi
+	opening_hours=Mo-Sa 11:00-20:00; Su 11:00-17:00
+	operator=ООО «Балткерама»
+
+* можно проверить на карте и в списке http://spb.kerama-marazzi.com/ru/wheretobuy/shops.php?IBLOCK_ID=13&SECTION_ID=1473
 
 ## Lamoda
 
@@ -131,6 +183,20 @@
 
 * `website` можно уточнить на карте и в списке http://copy.spb.ru/about/kontakti/
 
+## Ozon.ru
+
+	name=Ozon Port
+	brand=Ozon.ru
+	brand:wikidata=Q2365235
+	shop=outpost
+	website=https://www.ozon.ru/
+	contact:vk=https://vk.com/ozon
+	opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00
+	operator=ООО «Интернет Решения»
+
+* можно проверить в списке и на карте https://www.ozon.ru/context/map/?areaid=5911
+* разные названия пунктов выдачи
+
 ## Pita's
 
 	name=Pita's
@@ -142,6 +208,16 @@
 
 * можно проверить в списке http://www.pitas.ru/addresses/
 
+## Redmond
+
+	name=Redmond
+	shop=electronics
+	website=https://multivarka.pro/
+	contact:vk=https://vk.com/multipro
+	opening_hours=10:00-22:00
+
+* `website` можно уточнить на карте и в списке https://multivarka.pro/shops/sankt_peterburg/
+
 ## Samsonov Hotels
 
 	name=Samsonov Hotels
@@ -152,6 +228,24 @@
 * `website` можно уточнить на карте http://sutki78.ru/
 * возможно также http://www.pitersutki.ru/
 * у некоторых `contact:vk` можно уточнить
+
+## Subway
+
+	name=Subway
+	brand=Subway
+	brand:wikidata=Q244457
+	amenity=fast_food
+	website=http://subway.ru/
+	contact:vk=https://vk.com/subwayrussia
+
+Альтернативные теги:
+
+	name:en=Subway
+	name:ru=Сабвэй
+
+* можно проверить на карте http://subway.ru/stores/?q=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+* разные операторы, у некоторых свои сайты и прочие контактные данные
+* в качестве основного названия используют "Subway", у некоторых дополнительно используется "Сабвэй", у других - нет
 
 ## SПБ
 
@@ -187,6 +281,16 @@
 * можно проверить на карте и в списке https://tjcollection.ru/shops/russia/sankt-peterburg/
 * есть отдельно сайт онлайн-магазина https://www.tjonline.ru/
 
+## TopEr
+
+	name=TopEr
+	amenity=restaurant
+	cuisine=chinese
+	website=https://toperspb.ru/
+	contact:vk=https://vk.com/toperchina
+
+* `website` можно уточнить в списке и на карте https://toperspb.ru/kontakty/
+
 ## Velardi
 
 	name=Velardi
@@ -206,6 +310,19 @@
 
 * можно проверить в списке http://tea-coffee.info/shops/sankt-peterburg-i-lo/
 
+## Wildberries
+
+	name=Wildberries
+	brand=Wildberries
+	brand:wikidata=Q24933714
+	shop=clothes
+	reservation=required
+	website=https://www.wildberries.ru/
+	contact:vk=https://vk.com/club9695053
+	opening_hours=11:00-21:00
+
+* можно проверить в списке https://www.wildberries.ru/services/punkty-samovyvoza/sankt-peterburg
+
 ## Zeiss
 
 	name=Zeiss
@@ -213,10 +330,26 @@
 	brand:wikidata=Q282186
 	shop=optician
 	website=http://newglance.ru/
-	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
 	operator=ООО «Зайди — увидишь»
 
+Альтернативные теги:
+
+	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
+	opening_hours=Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00
+
 * `website` можно уточнить в списке http://newglance.ru/nashi-salony/
+
+## АВ Daily
+
+	name=АВ Daily
+	brand=Азбука вкуса
+	brand:wikidata=Q4058209
+	shop=convenience
+	website=https://av.ru/
+	contact:vk=https://vk.com/azbukavkusa_ru
+	operator=ООО «Городской супермаркет»
+
+* `website` можно уточнить на карте и в списке https://av.ru/shops/#spb
 
 ## Адвекс
 
@@ -261,6 +394,16 @@
 
 * `website` можно уточнить в списке и на карте http://arhitektorkrasoty.ru/kontakty/?city=2&metro=0
 
+## Атмосфера
+
+	name=Атмосфера
+	tourism=hotel
+	contact:vk=https://vk.com/ahotel
+	website=http://a-hotel.spb.ru/
+
+* `website` можно уточнить в списке http://a-hotel.spb.ru/#list
+* `website` можно уточнить на карте http://a-hotel.spb.ru/#map
+
 ## Буквоед
 
 	name=Буквоед
@@ -296,6 +439,17 @@
 	operator=ООО «Бургер Рус»
 
 * можно проверить на карте https://burgerking.ru/restaurants
+
+## Вака
+
+	name=Вака
+	shop=pet
+	website=http://www.vaka.ru/
+	contact:vk=https://vk.com/zoomagazinvaka
+	opening_hours=11:00-21:00
+	operator=ООО «Биосфера»
+
+* `website` для некоторых точек можно уточнить на карте и в списке http://www.vaka.ru/vakashops
 
 ## Великолукский мясокомбинат
 
@@ -353,14 +507,31 @@
 
 * можно проверить на карте и в списке https://vodopad.ru/info/shops.php
 
+## ВТБ
+
+	name=ВТБ
+	brand=ВТБ
+	brand:wikidata=Q1549389
+	amenity=bank
+	website=https://www.vtb.ru/
+	contact:vk=https://vk.com/vtb_bm
+	operator=Банк ВТБ (публичное акционерное общество)
+	operator:wikidata=Q1549389
+
+* `website` можно уточнить на карте и в списке https://www.vtb.ru/o-banke/kontakty/otdeleniya/
+
 ## Горздрав
 
 	name=Горздрав
 	amenity=pharmacy
 	website=https://gorzdrav.org/
 	contact:vk=https://vk.com/gorzdrav
-	opening_hours=Mo-Fr 08:00-22:00; Sa-Su,PH 09:00-21:00
 	operator=АО «Фармакор»
+
+Альтернативные теги:
+
+	opening_hours=Mo-Fr 08:00-22:00; Sa-Su,PH 09:00-21:00
+	opening_hours=Mo-Fr 09:00-22:00; Sa-Su,PH 09:00-21:00
 
 * `website` можно уточнить на карте https://gorzdrav.org/apteki/map/
 
@@ -375,6 +546,17 @@ wheelchair=yes
 	brand=Горячие туры
 
 * `name` и `website` можно уточнить в списке и на карте http://www.hottspb.ru/ofisi_na_glavnoy/
+
+## Градусы всего мира
+
+	name=Градусы всего мира
+	shop=alcohol
+	website=http://www.gradusi.net/shops/spb/1251/
+	contact:vk=https://vk.com/club136327332
+	opening_hours=09:00-22:00
+	operator=ООО «Винтаж»
+
+* `website` можно уточнить на карте и в списке http://www.gradusi.net/shops/
 
 ## Две палочки
 
@@ -451,6 +633,15 @@ wheelchair=yes
 
 * `website` можно уточнить в списке http://newglance.ru/nashi-salony/
 
+## Зерна
+
+	name=Зерна
+	amenity=fast_food
+	cuisine=coffee_shop
+	contact:vk=https://vk.com/zernacafe
+
+* можно проверить в списке https://vk.com/zernacafe
+
 ## Империя платья
 
 	name=Империя платья
@@ -478,6 +669,17 @@ wheelchair=yes
 	contact:vk=https://vk.com/iskusnicaspbru
 
 * `website` можно уточнить в списке и на карте https://iskusnica.spb.ru/shops/
+
+## Калевала
+
+	name=Калевала
+	shop=shoes
+	website=http://www.kalevala-spb.ru/
+	contact:vk=https://vk.com/club45625838
+	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
+	operator=ООО «Калевала»
+
+* можно проверить на карте и в списке http://www.kalevala-spb.ru/shoes-shops/
 
 ## Калейдоскоп напитков мира
 
@@ -611,14 +813,16 @@ wheelchair=yes
 	amenity=cafe
 	website=http://spb.lindfors.ru/
 	contact:vk=https://vk.com/cafe_lindfors
-	operator=ООО «Полтава»
 
 Альтернативные теги:
 
 	opening_hours=08:00-21:00
 	opening_hours=09:00-21:00
+	operator=ООО «Полтава»
+	operator=ООО «Столовая 41»
 
 * `website` можно уточнить в списке http://spb.lindfors.ru/restorany
+* разные операторы, у одного может быть несколько точек
 
 ## Магнит
 
@@ -659,7 +863,18 @@ wheelchair=yes
 	website=https://spb.megafon.ru/
 	contact:vk=https://vk.com/megafon
 
+Альтернативные теги:
+
+	name=МегаФон Экспресс
+
 * можно проверить на карте https://spb.megafon.ru/help/offices/
+
+## Музей шоколада
+
+	name=Музей шоколада
+	shop=confectionery
+	website=http://www.spb.muzeyshokolada.ru/
+	opening_hours=11:00-21:00
 
 ## Мука
 
@@ -764,6 +979,14 @@ wheelchair=yes
 	operator=ООО «Русский продукт»
 
 * можно проверить в списке http://пельмения.рф/contacts
+
+## Первая полоса
+
+	name=Первая полоса
+	shop=newsagent
+	contact:vk=https://vk.com/club127124787
+
+* нет сайта
 
 ## Первая помощь
 
@@ -971,6 +1194,18 @@ wheelchair=yes
 
 * можно проверить на карте https://www.svyaznoy.ru/shops
 
+## СДЭК
+
+	name=СДЭК
+	brand=СДЭК
+	brand:wikidata=Q28665980
+	amenity=post_office
+	website=https://www.cdek.ru/
+	contact:vk=https://vk.com/cdek_express
+	opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-16:00; Su 10:00-14:00
+
+* `website` можно уточнить в списке и на карте https://www.cdek.ru/contacts/sankt-peterburg.html
+
 ## Север-Метрополь
 
 	name=Север-Метрополь
@@ -1007,6 +1242,19 @@ wheelchair=yes
 	website=http://serebro-juvelir.com/
 
 * можно проверить в списке http://serebro-juvelir.com/shops
+
+## Синнабон
+
+	name=Синнабон
+	int_name=Cinnabon
+	brand=Cinnabon
+	brand:wikidata=Q1092539
+	amenity=cafe
+	website=https://cinnabonrussia.com/
+	contact:vk=https://vk.com/spbcinnabon
+
+* можно проверить в списке https://vk.com/spbcinnabon
+* можно проверить в списке и на карте https://cinnabonrussia.com/locations/?location=%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
 
 ## Ситилинк
 
@@ -1075,6 +1323,19 @@ wheelchair=yes
 	operator=ООО «Спектр Групп»
 
 * `website` можно уточнить на карте http://spektr-ru.com/adresa-magazinov
+
+## Старбакс
+
+	name=Старбакс
+	int_name=Starbucks
+	brand=Starbucks
+	brand:wikidata=Q37158
+	amenity=cafe
+	website=http://www.starbucks.ru/
+	contact:vk=https://vk.com/starbucks
+	opening_hours=7:30-23:00
+
+* `website` можно уточнить на карте http://www.starbucks.ru/store-locator/search/location/190000
 
 ## Столовая №1
 
@@ -1162,6 +1423,17 @@ wheelchair=yes
 
 * можно проверить на карте https://eliteflower.ru/kontakty/
 
+## Харбин
+
+	name=Харбин
+	amenity=restaurant
+	cuisine=chinese
+	website=https://harbin-spb.ru/
+	opening_hours=12:00-23:00
+	operator=ООО «Хондэ»
+
+* `website` можно уточнить в списке https://harbin-spb.ru/kontakty/
+
 ## Цех 85
 
 	name=Цех 85
@@ -1169,6 +1441,10 @@ wheelchair=yes
 	shop=bakery
 	website=http://tseh85.ru/
 	contact:vk=https://vk.com/tseh85
+
+Альтернативные теги:
+
+	opening_hours=Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00
 	opening_hours=Mo-Fr 08:00-22:00; Sa-Su 10:00-22:00
 
 * можно проверить в списке и на карте http://tseh85.ru/#contact-section
@@ -1226,6 +1502,18 @@ wheelchair=yes
 	operator=АО «Эталон ЛенСпецСМУ»
 
 * можно проверить на карте и в списке http://lenspecsmu.ru/contacts/spb/
+
+## Юнистрим
+
+	name=Юнистрим
+	brand=Юнистрим
+	brand:wikidata=Q4534572
+	amenity=bank
+	website=http://unistream.ru/
+	contact:vk=https://vk.com/unistreambank
+	opening_hours=09:30-20:30
+
+* можно проверить на карте http://unistream.ru/service-points/
 
 ## Я — Актер!
 
