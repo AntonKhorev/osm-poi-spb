@@ -65,6 +65,17 @@
 
 * можно проверить на карте и в списке http://beerhousebar.ru/
 
+## Bileter
+
+	name=Bileter
+	shop=ticket
+	tickets:theatre=yes
+	website=https://www.bileter.ru/
+	contact:vk=https://vk.com/bileter
+	opening_hours=10:00-21:00; 15:00-16:00 off
+
+* можно проверить на карте и в списке https://www.bileter.ru/ticket-offices
+
 ## Calzedonia
 
 	name=Calzedonia
@@ -146,6 +157,19 @@
 
 * можно проверить на карте и в списке http://spb.kerama-marazzi.com/ru/wheretobuy/shops.php?IBLOCK_ID=13&SECTION_ID=1473
 
+## Lady Sharm
+
+	name=Lady Sharm
+	shop=clothes
+	clothes=women
+	website=http://ledisharm.com/
+	contact:vk=https://vk.com/ladysharmclassic
+	opening_hours=Mo-Sa 10:00-21:00; Su 10:00-19:00
+	operator=ООО «Камея»
+
+* можно проверить в списке http://ledisharm.com/magazini-lady-sharm/
+* можно проверить на карте http://ledisharm.com/magazini-lady-sharm/spb/
+
 ## Lamoda
 
 	name=Lamoda
@@ -162,8 +186,16 @@
 	shop=erotic
 	website=https://love-z.ru/
 	contact:vk=https://vk.com/love.zona
+	opening_hours=24/7
 
 * `website` можно уточнить на карте и в списке https://love-z.ru/shops
+
+## Marketplace
+
+	name=Marketplace
+	amenity=cafe
+	website=http://market-place.me/ru/spb/
+	contact:vk=https://vk.com/marketplacespb
 
 ## Marko
 
@@ -173,6 +205,16 @@
 	contact:vk=https://vk.com/marko_obuv
 
 * можно проверить в списке http://www.markoclub.ru/belobuvshops
+
+## Mr.Doors
+
+	name=Mr.Doors
+	shop=furniture
+	website=https://www.mebel.ru/
+	contact:vk=https://vk.com/mr.doors_russia
+	opening_hours=10:00-20:00
+
+* `website` можно уточнить на карте и в списке https://www.mebel.ru/shops/sankt-petersburg/
 
 ## OQ
 
@@ -215,6 +257,7 @@
 	website=https://multivarka.pro/
 	contact:vk=https://vk.com/multipro
 	opening_hours=10:00-22:00
+	operator=ООО «Гравилат»
 
 * `website` можно уточнить на карте и в списке https://multivarka.pro/shops/sankt_peterburg/
 
@@ -247,6 +290,15 @@
 * разные операторы, у некоторых свои сайты и прочие контактные данные
 * в качестве основного названия используют "Subway", у некоторых дополнительно используется "Сабвэй", у других - нет
 
+## Surf Coffee
+
+	name=Surf Coffee
+	amenity=cafe
+	website=http://surfcoffee.ru/
+	contact:vk=https://vk.com/surfcoffeespb
+
+* `name` и `website` можно уточнить для некоторых точек
+
 ## SПБ
 
 	name=SПБ
@@ -268,6 +320,14 @@
 	opening_hours=10:00-21:00
 
 * можно проверить на карте https://spb.tele2.ru/offices
+
+## Time for Coffee
+
+	name=Time for Coffee
+	amenity=fast_food
+	cuisine=coffee_shop
+	contact:vk=https://vk.com/time_forcoffee
+	opening_hours=08:00-22:00
 
 ## TJ Collection
 
@@ -319,7 +379,6 @@
 	reservation=required
 	website=https://www.wildberries.ru/
 	contact:vk=https://vk.com/club9695053
-	opening_hours=11:00-21:00
 
 * можно проверить в списке https://www.wildberries.ru/services/punkty-samovyvoza/sankt-peterburg
 
@@ -403,6 +462,39 @@
 
 * `website` можно уточнить в списке http://a-hotel.spb.ru/#list
 * `website` можно уточнить на карте http://a-hotel.spb.ru/#map
+
+## Большой праздник
+
+	name=Большой праздник
+	alt_name=Планета фейерверков
+	shop=pyrotechnics
+	website=http://www.bolshoy.ru/
+	website2=http://www.planetaf.ru/
+	contact:vk=https://vk.com/bolshoyru
+	opening_hours=10:00-21:00
+
+* можно проверить на карте и в списке http://www.bolshoy.ru/contacts/sankt-peterburg/
+
+## Британские пекарни
+
+	name=Британские пекарни
+	amenity=cafe
+	website=https://british-bakery.ru/
+	contact:vk=https://vk.com/club_british_bakery
+	opening_hours=08:30-22:00
+
+* `website` можно уточнить на карте https://british-bakery.ru/shops/
+
+## Буду мамой
+
+	name=Буду мамой
+	shop=clothes
+	clothes=maternity
+	website=http://www.budumamoy.ru/
+	contact:vk=https://vk.com/budumamoy
+	opening_hours=10:00-21:00
+
+* можно проверить на карте и в списке http://www.budumamoy.ru/pages/roznichnie-magazini_114/item_1/
 
 ## Буквоед
 
@@ -604,6 +696,15 @@ wheelchair=yes
 
 * можно проверить на карте http://www.stoletov.ru/pharmacy/?city=21029
 
+## Друзья
+
+	name=Друзья
+	tourism=hotel
+	website=http://www.friendsplace.ru/
+	contact:vk=https://vk.com/spbfriends
+
+* `name` и `website` можно уточнить на карте и в списке http://www.friendsplace.ru/spb/
+
 ## Дэфо
 
 	name=Дэфо
@@ -642,6 +743,15 @@ wheelchair=yes
 
 * можно проверить в списке https://vk.com/zernacafe
 
+## Золотой
+
+	name=Золотой
+	shop=jewelry
+	website=https://www.gold585.ru/
+	opening_hours=10:00-22:00
+
+* можно проверить на карте и в списке https://www.gold585.ru/contacts/shops/sankt-peterburg/
+
 ## Империя платья
 
 	name=Империя платья
@@ -650,6 +760,18 @@ wheelchair=yes
 	contact:vk=https://vk.com/imperiaplatya
 
 * можно проверить в списке http://империяплатья.рф/page/adresa-magazinov
+
+## Инвитро
+
+	name=Инвитро
+	brand=Инвитро
+	brand:wikidata=Q4200546
+	amenity=doctors
+	website=https://www.invitro.ru/
+	contact:vk=https://vk.com/invitro
+	operator=ООО «Инвитро СПб»
+
+* `website` можно уточнить на карте https://www.invitro.ru/offices/piter/
 
 ## Интан
 
@@ -714,6 +836,17 @@ wheelchair=yes
 	operator=ООО «Кей»
 
 * `website` можно уточнить на карте https://key.ru/magaziny/
+
+## Кладовая здоровья
+
+	name=Кладовая здоровья
+	shop=medical_supply
+	medical_supply=orthopedic
+	website=https://kladzdor.ru/
+	contact:vk=https://vk.com/kladovaya_zdorovya
+	opening_hours=Mo-Fr 10:00-21:00; Sa 11:00-20:00; Su 11:00-19:00
+
+* `website` можно уточнить на карте и в списке https://kladzdor.ru/adresa-magazinov/
 
 ## Комус
 
@@ -824,6 +957,16 @@ wheelchair=yes
 * `website` можно уточнить в списке http://spb.lindfors.ru/restorany
 * разные операторы, у одного может быть несколько точек
 
+## М65
+
+	name=М65
+	shop=outdoor
+	website=http://m65-spb.ru/
+	contact:vk=https://vk.com/m65_spb
+	opening_hours=10:00-21:00
+
+* можно проверить в списке http://m65-spb.ru/%D0%BD%D0%B0%D1%88%D0%B8-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D1%8B/
+
 ## Магнит
 
 	name=Магнит
@@ -834,6 +977,19 @@ wheelchair=yes
 	operator=АО «Тандер»
 
 * можно проверить на карте и в списке http://magnit-info.ru/buyers/adds/
+
+## Макдоналдс
+
+	name=Макдоналдс
+	int_name=McDonald's
+	brand=McDonald's
+	brand:wikidata=Q38076
+	amenity=fast_food
+	website=https://mcdonalds.ru/
+	contact:vk=https://vk.com/mcdonaldsrussia
+	operator=ООО «Макдоналдс»
+
+* `website` можно уточнить на карте https://mcdonalds.ru/restaurants/map
 
 ## Машина времени
 
@@ -868,6 +1024,21 @@ wheelchair=yes
 	name=МегаФон Экспресс
 
 * можно проверить на карте https://spb.megafon.ru/help/offices/
+
+## Медок
+
+	name=Медок
+	shop=honey
+	website=https://www.medokspb.ru/
+
+* можно проверить на карте и в списке https://www.medokspb.ru/shops
+
+## Море чая
+
+	name=Море чая
+	shop=tea
+	website=http://morecha.ru/
+	contact:vk=https://vk.com/morecha
 
 ## Музей шоколада
 
@@ -1026,6 +1197,19 @@ wheelchair=yes
 
 * можно проверить в списке и на карте http://www.петроторг-атк.рф/shops/
 
+## ПиLки
+
+	name=ПиLки
+	alt_name=Пилки
+	shop=beauty
+	website=https://pilkinail.ru/
+	contact:vk=https://vk.com/pilkinail
+	opening_hours=09:00-23:00
+	operator=ИП Сенин Владимир Юрьевич
+
+* можно проверить в списке https://pilkinail.ru/studio?list
+* можно проверить на карте https://pilkinail.ru/studio?map
+
 ## Пингвин
 
 	name=Пингвин
@@ -1123,6 +1307,17 @@ wheelchair=yes
 
 * `website` можно уточнить на карте https://www.raiffeisen.ru/offices/
 
+## РеалЪ
+
+	name=РеалЪ
+	shop=supermarket
+	website=http://www.tdreal.spb.ru/?page=55
+	contact:vk=https://vk.com/real_svezhie_produkty
+	opening_hours=09:00-23:00
+	operator=ООО «Торговый дом «Реалъ»
+
+* `website` можно уточнить в списке http://www.tdreal.spb.ru/
+
 ## РЕСО-Гарантия
 
 	name=РЕСО-Гарантия
@@ -1160,6 +1355,17 @@ wheelchair=yes
 
 * `website` можно уточнить на карте и в списке http://www.rivegauche.ru/shops/cities/sankt-peterburg
 
+## Санкт-Петербург
+
+	name=Санкт-Петербург
+	brand=Банк Санкт-Петербург
+	brand:wikidata=Q4407652
+	amenity=bank
+	website=https://www.bspb.ru/
+	contact:vk=https://vk.com/bspb
+	operator=ПАО «Банк «Санкт-Петербург»
+	operator:wikidata=Q4407652
+
 ## СантаМаг
 
 	name=СантаМаг
@@ -1176,7 +1382,7 @@ wheelchair=yes
 	brand=Сбербанк
 	brand:wikidata=Q205012
 	amenity=bank
-	website=http://www.sberbank.ru/
+	website=https://www.sberbank.ru/
 	contact:vk=https://vk.com/sberbank
 	operator=ПАО «Сбербанк России»
 	operator:wikidata=Q205012
@@ -1381,6 +1587,18 @@ wheelchair=yes
 * `website` можно уточнить в списке http://tarelkas.ru/cafes/
 * `website` можно уточнить на карте http://tarelkas.ru/cafes/map/
 
+## Террапевтика
+
+	name=Террапевтика
+	shop=medical_supply
+	medical_supply=orthopedic
+	website=https://www.terrapevtika.ru/
+	contact:vk=https://vk.com/terrapevtika
+	opening_hours=Mo-Sa 09:00-20:00; Su 10:00-18:00
+	operator=ИП Гусаров А.М.
+
+* `website` можно уточнить на карте и в списке https://www.terrapevtika.ru/adresa-magazinov/
+
 ## ТриКотаЖ
 
 	name=ТриКотаЖ
@@ -1398,7 +1616,11 @@ wheelchair=yes
 	website=https://www.r-ulybka.ru/
 	contact:vk=https://vk.com/ulybka_radugi
 	opening_hours=09:00-22:00
+
+Альтернативные теги:
+
 	operator=ООО «Петроградское»
+	operator=ООО «Южное»
 
 * можно проверить на карте https://www.r-ulybka.ru/u-store/
 
@@ -1423,6 +1645,16 @@ wheelchair=yes
 
 * можно проверить на карте https://eliteflower.ru/kontakty/
 
+## Фиалка
+
+	name=Фиалка
+	amenity=pharmacy
+	website=https://fialkaspb.ru/
+	contact:vk=https://vk.com/aptekafialka
+	opening_hours=24/7
+
+* `website` можно уточнить на карте https://fialkaspb.ru/pharmacy/
+
 ## Харбин
 
 	name=Харбин
@@ -1433,6 +1665,18 @@ wheelchair=yes
 	operator=ООО «Хондэ»
 
 * `website` можно уточнить в списке https://harbin-spb.ru/kontakty/
+
+## Хесбургер
+
+	name=Хесбургер
+	int_name=Hesburger
+	brand=Hesburger
+	brand:wikidata=Q1276832
+	amenity=fast_food
+	website=https://www.hesburger.ru/
+	contact:vk=https://vk.com/hesburger_russia
+
+* `website` можно уточнить на карте https://www.hesburger.ru/260/?country=ru&city=%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
 
 ## Цех 85
 
@@ -1468,6 +1712,26 @@ wheelchair=yes
 	contact:vk=https://vk.com/cheburoom
 
 * можно проверить в списке и на карте https://cheburoom.ru/#b6
+
+## Шоколадница
+
+	name=Шоколадница
+	brand=Шоколадница
+	brand:wikidata=Q30891188
+	amenity=cafe
+	cuisine=coffee_shop
+	website=http://shoko.ru/sankt-peterburg/
+	contact:vk=https://vk.com/shokospb
+	opening_hours=24/7
+
+Альтернативные теги:
+
+	operator=ООО «Галерея-Алекс»
+	operator=ООО «Кофе Хаус. Эспрессо и Капучино Бар»
+
+* можно проверить на карте http://shoko.ru/sankt-peterburg/adresa_kofeen/
+* разные операторы
+* некоторые из точек - бывшие "Кофе Хаузы"
 
 ## Штолле
 
