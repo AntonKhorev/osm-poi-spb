@@ -1,3 +1,11 @@
+## 1x
+
+	name=1x
+	shop=bookmaker
+	website=https://1xstavka.ru/
+
+* можно проверить на карте и в списке https://1xstavka.ru/points/
+
 ## 220 Вольт
 
 	name=220 Вольт
@@ -52,6 +60,15 @@
 
 * можно проверить в списке http://allseasonscomfort.ru/shops/
 
+## Anex Tour
+
+	name=Anex Tour
+	shop=travel_agency
+	website=http://b2c.anextour.com/
+	contact:vk=https://vk.com/anextourrussia
+
+* разные операторы
+
 ## Artis
 
 	name=Artis
@@ -70,6 +87,19 @@
 	opening_hours=Mo-Sa 10:00-20:00; Su 10:00-19:00
 
 * `website` можно уточнить в списке https://www.baggins.ru/shops
+
+## Baggins Coffee
+
+	name=Baggins Coffee
+	amenity=cafe
+	cuisine=coffee_shop
+	website=http://bagginscoffee.ru/
+	contact:vk=https://vk.com/bagginscoffee
+	opening_hours=Mo-Sa 08:00-21:00; Su 09:00-21:00
+
+Альтернативные теги:
+
+	amenity=fast_food
 
 ## Beer House
 
@@ -143,6 +173,17 @@
 
 * можно проверить на карте и в списке https://fix-price.ru/buyers/shops/sankt-peterburg/
 
+## Goldenpoint
+
+	name=Goldenpoint
+	contact:vk=https://vk.com/club23701382
+	shop=clothes
+	website=https://www.goldenpoint.com/
+	opening_hours=09:00-21:00
+	operator=ООО «Митинтертрейд»
+
+* можно проверить поиском на https://www.goldenpoint.com/it_en/store-locator/
+
 ## Greenbox
 
 	name=Greenbox
@@ -198,6 +239,17 @@
 	contact:vk=https://vk.com/zoo_k9
 
 * `contact:vk` можно уточнить для некоторых точек
+
+## Kassir.ru
+
+	name=Kassir.ru
+	shop=ticket
+	tickets:theatre=yes
+	website=https://spb.kassir.ru/
+	contact:vk=https://vk.com/spbkassir
+	opening_hours=10:00-20:00; 14:00-15:00 off
+
+* можно проверить на карте и в списке https://spb.kassir.ru/biletnye-kassy
 
 ## Kerama Marazzi
 
@@ -296,6 +348,18 @@
 
 * можно проверить на карте https://newbalance.ru/support/shops/
 
+## Ollis Club
+
+	name=Ollis Club
+	amenity=fast_food
+	cuisine=pizza
+	website=https://www.ollis.ru/
+	contact:vk=https://vk.com/ollisclub
+	opening_hours=24/7
+	operator=ООО «Сытопьяно»
+
+* `website` можно уточнить на карте и в списке https://www.ollis.ru/restaurants/
+
 ## OQ
 
 	name=OQ
@@ -331,6 +395,16 @@
 
 * можно проверить поиском на https://www.pandora.net/ru-ru/stores
 
+## Petshop.ru
+
+	name=Petshop.ru
+	shop=pet
+	website=http://www.petshop.ru/
+	contact:vk=https://vk.com/club57
+	opening_hours=09:00-22:00
+
+* можно проверить на карте https://www.petshop.ru/about/outpost/
+
 ## Pita's
 
 	name=Pita's
@@ -341,6 +415,19 @@
 	operator=ООО «Питас Стрит»
 
 * можно проверить в списке http://www.pitas.ru/addresses/
+
+## Prisma
+
+	name=Prisma
+	brand=Prisma
+	brand:wikidata=Q12047031
+	shop=supermarket
+	website=http://www.prismamarket.ru/
+	contact:vk=https://vk.com/prisma
+	opening_hours=07:00-23:00
+	operator=ООО «Призма»
+
+* `website` можно уточнить в списке и на карте http://www.prismamarket.ru/misc/nashi-magaziny
 
 ## Redmond
 
@@ -353,6 +440,27 @@
 
 * `website` можно уточнить на карте и в списке https://multivarka.pro/shops/sankt_peterburg/
 
+## Rieker
+
+	name=Rieker
+	brand=Rieker
+	brand:wikidata=Q2152193
+	shop=shoes
+	opening_hours=10:00-20:00
+	operator=ООО «Эридана»
+
+* на сайте https://www.rieker.com/russisch нет информации о магазинах
+* разные операторы
+
+## S2B
+
+	name=S2B
+	shop=tobacco
+	website=http://shisha-rf.com/
+	contact:vk=https://vk.com/shisharfshop
+
+* можно проверить на карте и в списке http://shisha-rf.com/shops
+
 ## Samsonov Hotels
 
 	name=Samsonov Hotels
@@ -363,6 +471,20 @@
 * `website` можно уточнить на карте http://sutki78.ru/
 * возможно также http://www.pitersutki.ru/
 * у некоторых `contact:vk` можно уточнить
+
+## Sofia
+
+	name=Sofia
+	shop=shoes
+	website=http://www.sofiashoes.ru/
+	contact:vk=https://vk.com/sofia_obuv_spb
+
+Альтернативные теги:
+
+	opening_hours=10:00-21:00
+	opening_hours=Mo-Fr 10:00-22:00; Sa-Su 10:00-20:00
+
+* можно проверить на карте и в списке http://www.sofiashoes.ru/shops/
 
 ## Subway
 
@@ -570,6 +692,7 @@
 	operator=ООО «АМ-4 СПб»
 	operator=ООО «Винторг»
 	operator=ООО «ВТ-Центр»
+	operator=ООО «Объект Плюс»
 
 * `website` можно уточнить поиском https://amwine.ru/customers/shops/
 * разные операторы, у каждого может быть по несколько магазинов
@@ -592,6 +715,23 @@
 
 * `website` можно уточнить в списке http://a-hotel.spb.ru/#list
 * `website` можно уточнить на карте http://a-hotel.spb.ru/#map
+
+## Билайн
+
+	name=Билайн
+	brand=Билайн
+	brand:wikidata=Q402880
+	shop=mobile_phone
+	office=telecommunication
+	website=https://spb.beeline.ru/
+	contact:vk=https://vk.com/beeline
+
+Альтернативные теги:
+
+	opening_hours=09:00-21:00
+	opening_hours=10:00-22:00
+
+* можно проверить на карте https://spb.beeline.ru/customers/beeline-on-map/
 
 ## Благо
 
@@ -656,6 +796,10 @@
 	website=http://fvolchek.ru/
 	contact:vk=https://vk.com/f.volchek
 	opening_hours=08:00-22:00
+
+Альтернативные теги:
+
+	name=Пекарня Ф. Вольчека
 
 * можно проверить в списке http://fvolchek.ru/
 * возможно различное написание названия
@@ -764,6 +908,18 @@
 
 * `website` можно уточнить на карте и в списке https://www.vtb.ru/o-banke/kontakty/otdeleniya/
 
+## Газпромбанк
+
+	name=Газпромбанк
+	brand=Газпромбанк
+	brand:wikidata=Q1924338
+	amenity=bank
+	website=http://www.gazprombank.ru/
+	operator=«Газпромбанк» (Акционерное общество)
+	operator:wikidata=Q1924338
+
+* можно проверить на карте http://www.gazprombank.ru/additional_office/
+
 ## Горздрав
 
 	name=Горздрав
@@ -836,6 +992,16 @@
 	operator=АО «Дикси Юг»
 
 * можно проверить на карте https://dixy.ru/nearest-shop/
+* на карте у некоторых кривые координаты, может понадобиться поиск
+
+## До зарплаты
+
+	name=До зарплаты
+	shop=money_lender
+	website=https://dozarplati.com/
+	contact:vk=https://vk.com/dozarplaticom
+
+* можно проверить на карте https://dozarplati.com/about/branches
 
 ## Доктор Столетов
 
@@ -1127,6 +1293,16 @@
 
 * `website` можно уточнить на карте и в списке https://laserdoctor.ru/contacts/
 
+## Леди
+
+	name=Леди
+	shop=beauty
+	website=https://lady-rf.ru/
+	contact:vk=https://vk.com/companylady
+	opening_hours=10:00-21:00
+
+* `website` можно уточнить на карте и в списке https://lady-rf.ru/%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0/
+
 ## Линдфорс
 
 	name=Линдфорс
@@ -1302,6 +1478,16 @@
 
 * `website` можно уточнить в списке http://www.present.ru/salony/#yakor2
 
+## Невис
+
+	name=Невис
+	amenity=pharmacy
+	website=https://aptekanevis.ru/
+	contact:vk=https://vk.com/aptekanevis
+	opening_hours=24/7
+
+* можно проверить на карте https://aptekanevis.ru/store/
+
 ## Невская оптика
 
 	name=Невская оптика
@@ -1364,7 +1550,7 @@
 	contact:vk=https://vk.com/spborange
 	opening_hours=08:00-23:00
 
-http://orangespb.ru/shops/
+* можно проверить в списке и на карте http://orangespb.ru/shops/
 
 ## Ортека
 
@@ -1375,6 +1561,14 @@ http://orangespb.ru/shops/
 	contact:vk=https://vk.com/orteka_ru
 
 * `website` можно уточнить на карте https://orteka.ru/salon/
+
+## Павловопосадские платки
+
+	name=Павловопосадские платки
+	shop=clothes
+	website=http://platki.ru/
+
+* можно проверить на карте http://platki.ru/stores/
 
 ## Пактор
 
@@ -1392,6 +1586,10 @@ http://orangespb.ru/shops/
 	contact:vk=https://vk.com/salonparfumer
 
 * `website` можно уточнить в списке https://salonparfumer.ru/salon/
+
+## Пекарня Ф. Вольчека
+
+см. *Булочные Ф. Вольчека*
 
 ## Пельмения
 
@@ -1548,12 +1746,14 @@ http://orangespb.ru/shops/
 	brand:wikidata=Q1768969
 	shop=supermarket
 	website=https://5ka.ru/
-	contact:vk=https://vk.com/club19098821
+	contact:vk=https://vk.com/pyaterochka_shop
 	operator=ООО «Агроторг»
 
 Альтернативные теги:
 
+	opening_hours=08:00-23:00
 	opening_hours=09:00-23:00
+	opening_hours=24/7
 
 * можно проверить на карте https://5ka.ru/stores/
 
@@ -1584,7 +1784,7 @@ http://orangespb.ru/shops/
 
 	name=РеалЪ
 	shop=supermarket
-	website=http://www.tdreal.spb.ru/?page=55
+	website=http://www.tdreal.spb.ru/
 	contact:vk=https://vk.com/real_svezhie_produkty
 	opening_hours=09:00-23:00
 	operator=ООО «Торговый дом «Реалъ»
@@ -1650,6 +1850,16 @@ http://orangespb.ru/shops/
 	contact:vk=https://vk.com/redcrossspb
 
 * можно проверить на карте http://www.spbredcross.org/about/contacts
+
+## Россия
+
+	name=Россия
+	brand=Россия
+	brand:wikidata=Q827011
+	amenity=bank
+	website=http://abr.ru/
+
+* можно проверить на карте http://abr.ru/about/contacts/#map-officies
 
 ## Санкт-Петербург
 
@@ -1787,9 +1997,13 @@ http://orangespb.ru/shops/
 
 	name=Сладкоежка
 	amenity=cafe
-	website=http://www.sladkoezka.com.ru/
-	opening_hours=Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00
+	website=https://www.sladkoezka.com.ru/
 	operator=ООО «Апельсин»
+
+Альтернативные теги:
+
+	opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00
+	opening_hours=Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00
 
 * можно проверить на карте и в списке https://www.sladkoezka.com.ru/restorany/kontakty
 * https://vk.com/tortsladkoezka не подходит, так как относится к кондитерской фабрике
@@ -1830,11 +2044,19 @@ http://orangespb.ru/shops/
 	name=Спектр
 	shop=chemist
 	website=http://spektr-ru.com/
-	contact:vk=https://vk.com/spektrgroup
+	contact:vk=https://vk.com/watsonsrussia
 	opening_hours=09:00-22:00
 	operator=ООО «Спектр Групп»
 
+Альтернативные теги:
+
+	name=Watsons
+	brand=Watsons
+	brand:wikidata=Q7974785
+	https://watsons.com.ru/
+
 * `website` можно уточнить на карте http://spektr-ru.com/adresa-magazinov
+* [был куплен *Watsons*](http://spektr-ru.com/o-kompanii), возможен соответствующий ребрендинг некоторых магазинов
 
 ## Старбакс
 
@@ -1854,11 +2076,16 @@ http://orangespb.ru/shops/
 	name=Столовая №1
 	amenity=fast_food
 	fast_food=cafeteria
-	website=http://st1.one/
+	website=https://st1.one/
 	contact:vk=https://vk.com/club12879930
 	opening_hours=24/7
 
+Альтернативные теги:
+
+	operator=ООО «Большая Медведица»
+
 * можно проверить в списке и на карте https://st1.one/#contacts
+* разные операторы
 
 ## СуперХостел
 
@@ -1879,6 +2106,19 @@ http://orangespb.ru/shops/
 	contact:vk=https://vk.com/woksushi
 
 * можно проверить в списке https://sushiwok.ru/spb/addresses/
+
+## Тан Жен
+
+	name=Тан Жен
+	amenity=restaurant
+	cuisine=chinese
+	website=http://www.tang-ren.ru/
+	contact:vk=https://vk.com/tangrenspb
+	opening_hours=12:00-23:00
+	operator=ООО «Родос»
+
+* `website` можно уточнить в списке http://www.tang-ren.ru/rest.htm
+* у них на карте точек меньше, чем в списке
 
 ## Тарелка столовая
 
@@ -1939,6 +2179,18 @@ http://orangespb.ru/shops/
 
 * можно проверить на карте https://www.r-ulybka.ru/u-store/
 
+## Университетская аптека
+
+	name=Университетская аптека
+	brand=Yliopiston Apteekki
+	brand:wikidata=Q10709719
+	amenity=pharmacy
+	website=http://yapteka.ru/
+	contact:vk=https://vk.com/yapteka
+	opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00
+
+* `website` можно уточнить на карте и в списке http://yapteka.ru/company/shops/
+
 ## Унция
 
 	name=Унция
@@ -1969,8 +2221,12 @@ http://orangespb.ru/shops/
 	shop=florist
 	website=https://eliteflower.ru/
 	contact:vk=https://vk.com/eliteflower
-	opening_hours=24/7
 	operator=ООО «Фантазия-4»
+
+Альтернативные теги:
+
+	opening_hours=08:00-22:00
+	opening_hours=24/7
 
 * можно проверить на карте https://eliteflower.ru/kontakty/
 
@@ -2051,6 +2307,17 @@ http://orangespb.ru/shops/
 
 * можно проверить в списке и на карте https://cheburoom.ru/#b6
 
+## Четыре глаза
+
+	name=Четыре глаза
+	shop=optics
+	website=https://www.4glaza.ru/
+	contact:vk=https://vk.com/chetyreglaza
+	opening_hours=10:00-21:00
+	operator=ООО «Четыре глаза»
+
+* можно проверить в списке и на карте https://www.4glaza.ru/shops/sankt-peterburg/
+
 ## Шоколадница
 
 	name=Шоколадница
@@ -2116,6 +2383,19 @@ http://orangespb.ru/shops/
 	operator=АО «Ювелирторг»
 
 * `name` и `website` можно уточнить на карте и в списке http://www.juvelirtorg.spb.ru/stores
+
+## ЮниКредит Банк
+
+	name=ЮниКредит Банк
+	brand=UniCredit
+	brand:wikidata=Q45568
+	amenity=bank
+	website=https://www.unicreditbank.ru/
+	contact:vk=https://vk.com/unicreditbank
+	operator=АО «ЮниКредит Банк»
+	operator:wikidata=Q727011
+
+* можно проверить на карте https://www.unicreditbank.ru/ru/branch-finder.html
 
 ## Юнистрим
 
