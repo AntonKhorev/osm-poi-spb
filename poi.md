@@ -82,9 +82,13 @@
 
 	name=Baggins
 	shop=bag
-	website=https://www.baggins.ru/krasnoarmeiskaya
+	website=https://www.baggins.ru/
 	contact:vk=https://vk.com/bagginsru
+
+Альтернативные теги:
+
 	opening_hours=Mo-Sa 10:00-20:00; Su 10:00-19:00
+	opening_hours=10:00-21:00
 
 * `website` можно уточнить в списке https://www.baggins.ru/shops
 
@@ -193,6 +197,11 @@
 	shop=variety_store
 	website=https://fix-price.ru/
 	contact:vk=https://vk.com/fix_price
+	operator=ООО «Бэст Прайс»
+
+Альтернативные теги:
+
+	opening_hours=09:00-21:00
 	opening_hours=10:00-22:00
 
 * можно проверить на карте и в списке https://fix-price.ru/buyers/shops/sankt-peterburg/
@@ -518,10 +527,23 @@
 	brand:wikidata=Q2152193
 	shop=shoes
 	opening_hours=10:00-20:00
+
+Альтернативные теги:
+
+	operator=ООО «Атон»
 	operator=ООО «Эридана»
 
 * на сайте https://www.rieker.com/russisch нет информации о магазинах
 * разные операторы
+
+## Rinaldi
+
+	name=Rinaldi
+	tourism=hotel
+	website=http://rinaldi.ru/
+	contact:vk=https://vk.com/id152254413
+
+* `website` можно уточнить в списке и на карте http://rinaldi.ru/hotels
 
 ## S2B
 
@@ -762,6 +784,20 @@
 
 * можно проверить на карте https://www.aptekamega.ru/pharmacies/
 
+## Абсолют Банк
+
+	name=Абсолют Банк
+	brand=Абсолют Банк
+	brand:wikidata=Q4055122
+	amenity=bank
+	website=https://absolutbank.ru/
+	contact:vk=https://vk.com/absolutbankru
+	opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-16:00
+	operator=ФАКБ «Абсолют Банк» (ПАО)
+	operator:wikidata=Q4055122
+
+* можно проверить на карте https://absolutbank.ru/about/offices-atms/
+
 ## АВ Daily
 
 см. *Азбука вкуса*
@@ -799,6 +835,21 @@
 	website=https://anspb.ru/
 
 * `website` можно уточнить в списке и на карте https://anspb.ru/contacts.php
+
+## Альфа-Банк
+
+	name=Альфа-Банк
+	brand=Альфа-Банк
+	brand:wikidata=Q1377835
+	amenity=bank
+	website=https://alfabank.ru/
+	contact:vk=https://vk.com/alfabank
+	opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-19:00
+	operator=АО «Альфа-Банк»
+	operator:wikidata=Q1377835
+
+* `website` можно уточнить в списке https://alfabank.ru/office/peterburg/list/
+* можно проверить на карте https://alfabank.ru/office/peterburg/map/
 
 ## Ароматный мир
 
@@ -1029,6 +1080,20 @@
 
 * можно проверить на карте и в списке https://vodopad.ru/info/shops.php
 
+## Восточный
+
+	name=Восточный
+	brand=Восточный банк
+	brand:wikidata=Q4126657
+	amenity=bank
+	website=https://www.vostbank.ru/
+	contact:vk=https://vk.com/vostbankru
+	opening_hours=Mo-Fr 10:00-19:00
+	operator=ПАО КБ «Восточный»
+	operator:wikidata=Q4126657
+
+* можно проверить на карте https://www.vostbank.ru/office/
+
 ## Всё что нужно
 
 	name=Всё что нужно
@@ -1059,6 +1124,16 @@
 	operator:wikidata=Q1924338
 
 * можно проверить на карте http://www.gazprombank.ru/additional_office/
+
+## Гарсон
+
+	name=Гарсон
+	int_name=Garçon
+	amenity=cafe
+	shop=bakery
+	website=https://www.garcon.ru/
+	contact:vk=https://vk.com/club52932043
+	opening_hours=09:00-21:00
 
 ## Глобэкс
 
@@ -1228,6 +1303,16 @@
 
 * можно проверить на карте и в списке https://evrasia.spb.ru/restaurants/
 * разные операторы
+
+## ЕвропаПроф
+
+	name=ЕвропаПроф
+	shop=hairdresser_supply
+	website=https://europaprof.ru/
+	opening_hours=10:00-21:00
+	operator=ИП «Зильвестр А.Р.»
+
+* можно проверить на карте и в списке https://europaprof.ru/magaziny
 
 ## Евросеть
 
@@ -1520,6 +1605,19 @@
 
 * можно проверить на карте https://cashpoint-kredit.ru/adresa-microzaimov
 
+## Лабиринт
+
+	name=Лабиринт
+	shop=books
+	reservation=required
+	website=https://www.labirint.ru/
+	contact:vk=https://vk.com/labirint_ru
+	opening_hours=09:00-21:00
+	operator=ООО «Лабиринт.ру»
+
+* можно проверить на карте https://www.labirint.ru/maps/
+* `website` можно уточнить, но у них в списке не все пункты
+
 ## Лавка Пекаря
 
 	name=Лавка Пекаря
@@ -1740,8 +1838,9 @@
 
 	name=На Парах
 	amenity=cafe
-	website=http://www.naparah.ru/
+	website=https://напарах.рф/
 	contact:vk=https://vk.com/naparah
+	operator=ООО «НП-Садовая»
 
 ## Надежное Будущее
 
@@ -2054,10 +2153,27 @@
 
 * можно проверить на карте и в списке http://planetazdorovo.ru/drugstore.aspx?Id_page=11
 
-##
+## Планета Секонд Хенд
+
+	name=Планета Секонд Хенд
+	shop=clothes
+	website=http://planetashspb.ru/
+	contact:vk=https://vk.com/mirsh
+	opening_hours=10:00-21:00
+	operator=ООО «Логистика СПб»
 
 * можно проверить в списке http://planetashspb.ru/magaziny
 * есть всероссийские сайты http://planeta-sh.ru/ и https://vk.com/planeta_sx
+
+## Платина Кострома
+
+	name=Платина Кострома
+	shop=jewelry
+	website=https://platina-kostroma.com/
+	contact:vk=https://vk.com/platina_kostroma
+	opening_hours=10:00-21:00
+
+* можно проверить в списке https://platina-kostroma.shop/shop-peterburg
 
 ## Платформа
 
@@ -2395,6 +2511,8 @@
 	shop=electronics
 	website=https://www.citilink.ru/
 	contact:vk=https://vk.com/citilink_ru
+	opening_hours=10:00-21:00
+	operator=ООО «Ситилинк»
 
 Альтернативные теги:
 
@@ -2555,7 +2673,7 @@
 	amenity=fast_food
 	cuisine=sushi
 	contact:vk=https://vk.com/sushishop
-	website=http://www.sushishop.ru/
+	website=https://www.sushishop.ru/
 	opening_hours=10:00-23:00
 
 * можно проверить на карте http://www.sushishop.ru/magaziny/
@@ -2595,6 +2713,8 @@
 	cuisine=pancake
 	website=http://www.teremok.ru/
 	contact:vk=https://vk.com/teremok
+	opening_hours=Mo-Fr 07:30-23:00; Sa-Su,PH 08:30-23:00
+	operator=ООО «Теремок — Русские Блины»
 
 * `website` можно уточнить на карте и в списке http://www.teremok.ru/address/
 
@@ -2638,6 +2758,7 @@
 	shop=clothes
 	website=https://www.trikstore.ru/
 	contact:vk=https://vk.com/trikstore
+	opening_hours=10:00-20:00
 	operator=ООО «Трик»
 
 * можно проверить в списке https://www.trikstore.ru/shops/
@@ -2747,6 +2868,14 @@
 	contact:vk=https://vk.com/hesburger_russia
 
 * `website` можно уточнить на карте https://www.hesburger.ru/260/?country=ru&city=%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+
+## Ц!Обувь
+
+	name=Ц!Обувь
+	shop=shoes
+	website=http://soglasie77.ru/
+	contact:vk=https://vk.com/shoesfromyou
+	opening_hours=10:00-21:00
 
 ## Центр Займов
 
