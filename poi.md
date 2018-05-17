@@ -174,6 +174,23 @@
 
 * `website` можно уточнить на карте и в списке https://deadsea-cosmetics.ru/shops/spb-shops/
 
+## DNS
+
+	name=DNS
+	brand=DNS
+	brand:wikidata=Q4036922
+	shop=computer
+	website=https://www.dns-shop.ru/
+	contact:vk=https://vk.com/dnsstore
+	opening_hours=10:00-21:00
+	operator=ООО «Компьютерный Мир - На Сенной»
+
+Альтернативные теги:
+
+	name=DNS цифровой
+
+* `website` можно уточнить на карте и в списке https://www.dns-shop.ru/shops/spb/
+
 ## Duty Free Flowers
 
 	name=Duty Free Flowers
@@ -187,6 +204,15 @@
 	opening_hours=Mo-Fr 07:00-22:00; Sa-Su 10:00-22:00
 
 * можно проверить в списке http://dff24.ru/shops
+
+## Elit
+
+	name=Elit
+	shop=clothes
+	clothes=workwear
+	contact:vk=https://vk.com/spb_elit
+	website=http://tdelit.ru/
+	opening_hours=10:00-20:00
 
 ## English First
 
@@ -798,6 +824,16 @@
 
 * можно проверить на карте https://www.tui.ru/where-to-buy/?t=map
 
+## Vardex
+
+	name=Vardex
+	shop=e-cigarette
+	website=https://www.vardex.ru/
+	contact:vk=https://vk.com/vardex_ru
+	opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00
+
+* `website` можно уточнить на карте https://www.vardex.ru/shops/sankt-petersburg/
+
 ## Velardi
 
 	name=Velardi
@@ -882,6 +918,17 @@
 
 см. *Азбука вкуса*
 
+## Адамас
+
+	name=Адамас
+	shop=jewelry
+	website=https://www.adamas.ru/
+	contact:vk=https://vk.com/adamas.club
+	opening_hours=10:00-21:00
+	operator=ООО «Адамас-Ювелирторг»
+
+* `website` можно уточнить на карте и в списке https://www.adamas.ru/buy/sankt-peterburg/
+
 ## Адвекс
 
 	name=Адвекс
@@ -930,6 +977,7 @@
 
 * `website` можно уточнить в списке https://alfabank.ru/office/peterburg/list/
 * можно проверить на карте https://alfabank.ru/office/peterburg/map/
+* часто бывает два разных отделения в одном месте
 
 ## Ароматный мир
 
@@ -1182,9 +1230,13 @@
 	amenity=bank
 	website=https://www.vostbank.ru/
 	contact:vk=https://vk.com/vostbankru
-	opening_hours=Mo-Fr 10:00-19:00
 	operator=ПАО КБ «Восточный»
 	operator:wikidata=Q4126657
+
+Альтернативные теги:
+
+	opening_hours=Mo-Fr 10:00-19:00
+	opening_hours=Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 10:00-16:00
 
 * можно проверить на карте https://www.vostbank.ru/office/
 
@@ -1266,6 +1318,17 @@
 * разные операторы
 * [36,6 купили аптеки у Фармакора](https://www.dp.ru/a/2017/09/08/Aptechnuju_set_Farmakor)
 
+## Городские кондитерские №1
+
+	name=Городские кондитерские №1
+	amenity=cafe
+	website=http://www.konditer1.ru/
+	contact:vk=https://vk.com/citycakes
+	opening_hours=08:30-22:00
+	operator=ООО «Нептун»
+
+* можно проверить на карте и в списке http://www.konditer1.ru/adresses.html
+
 ## Горячие туры
 
 	name=Горячие туры
@@ -1300,6 +1363,13 @@
 	contact:vk=https://vk.com/dvepalochki
 
 * `website` можно уточнить в списке и на карте http://dvepalochki.ru/restaurants/
+
+## Деньга
+
+	name=Деньга
+	shop=money_lender
+	website=https://denga.ru/spb/
+	contact:vk=https://vk.com/dengazaim
 
 ## Дикая Орхидея
 
@@ -1596,7 +1666,7 @@
 	brand=Комус
 	brand:wikidata=Q4230314
 	shop=stationery
-	website=https://www.komus.ru/store/sankt-peterburg/tts-izmajlovskij/s/31/
+	website=https://www.komus.ru/
 	contact:vk=https://vk.com/komus_club
 	opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00
 	operator=ООО «Комус-Петербург»
@@ -2334,6 +2404,16 @@
 
 * можно проверить в списке https://www.ponchkoff.ru/shops
 
+## Пхали-Хинкали
+
+	name=Пхали-Хинкали
+	amenity=restaurant
+	cuisine=georgian
+	website=http://phali-hinkali.ru/
+	contact:vk=https://vk.com/phalihinkali
+
+* `website` можно уточнить
+
 ## Пышечная фабрика
 
 	amenity=cafe
@@ -2606,6 +2686,15 @@
 
 * можно проверить в меню *Адреса магазинов* на https://vk.com/7shagoff
 
+## Сенатор
+
+	name=Бизнес-центр «Сенатор»
+	landuse=commercial
+	website=http://senator.spb.ru/
+	contact:vk=https://vk.com/bcsenator
+
+* `website` можно уточнить
+
 ## Серебро
 
 	name=Серебро
@@ -2803,6 +2892,16 @@
 
 * можно проверить на карте http://www.sushishop.ru/magaziny/
 
+## Табакерка
+
+	name=Табакерка
+	shop=tobacco
+	website=http://www.tabakerka.biz/
+	opening_hours=10:00-21:00
+	operator=ООО «Омега»
+
+* `website` можно уточнить
+
 ## Тан Жен
 
 	name=Тан Жен
@@ -2828,6 +2927,14 @@
 
 * `website` можно уточнить в списке http://tarelkas.ru/cafes/
 * `website` можно уточнить на карте http://tarelkas.ru/cafes/map/
+
+## Твои деньги
+
+	name=Твои деньги
+	shop=money_lender
+	website=http://www.tvoidengi.com/
+
+* можно проверить в списке http://www.tvoidengi.com/office/
 
 ## Теремок
 
@@ -2861,12 +2968,16 @@
 	name:ru=Токио-Сити
 	name:en=Tokyo-City
 	amenity=restaurant
-	website=http://www.tokyo-city.ru/
+	website=https://www.tokyo-city.ru/
 	contact:vk=https://vk.com/club_tokyocity
 	opening_hours=Mo-Fr 11:00-23:00; Sa-Su 12:00-23:00
-	operator=ООО «Армалит»
 
-* `website` можно уточнить на карте и в списке http://www.tokyo-city.ru/adresses.html
+Альтернативные теги:
+
+	operator=ООО «Армалит»
+	operator=ООО «Нептун»
+
+* можно проверить на карте и в списке https://www.tokyo-city.ru/adresses.html
 
 ## Толстый фраер
 
@@ -2941,15 +3052,17 @@
 
 	name=Унция
 	shop=tea
-	website=http://www.chay.info/
+	website=https://www.chay.info/
 	contact:vk=https://vk.com/teaounce
-	opening_hours=10:00-22:00
 
 Альтернативные теги:
 
 	shop=coffee
 
-* можно проверить в списке http://www.chay.info/store/sanktpeterburg/
+	opening_hours=09:30-21:00
+	opening_hours=10:00-22:00
+
+* можно проверить в списке https://www.chay.info/store/sanktpeterburg/
 
 ## Фаворит
 
