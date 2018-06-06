@@ -353,9 +353,24 @@
 	website=http://spb.kerama-marazzi.com/
 	contact:vk=https://vk.com/keramamarazzi
 	opening_hours=Mo-Sa 11:00-20:00; Su 11:00-17:00
+
+Альтернативные теги:
+
 	operator=ООО «Балткерама»
+	operator=ООО «Керама-СПб»
 
 * можно проверить на карте и в списке http://spb.kerama-marazzi.com/ru/wheretobuy/shops.php?IBLOCK_ID=13&SECTION_ID=1473
+
+## Kiss Fashion
+
+	name=Kiss Fashion
+	shop=bag
+	website=http://kissfashion.ru/
+	contact:vk=https://vk.com/club91432997
+	opening_hours=10:00-21:00
+
+* `website` можно уточнить в списке http://kissfashion.ru/kontakty
+* можно проверить в списке https://vk.com/topic-91432997_32069710
 
 ## Kriek
 
@@ -507,6 +522,10 @@
 	website=http://copy.spb.ru/
 	contact:vk=https://vk.com/copyspbru
 
+Альтернативные теги:
+
+	name=OQ Express
+
 * `website` можно уточнить на карте и в списке http://copy.spb.ru/about/kontakti/
 
 ## Ozon.ru
@@ -539,7 +558,7 @@
 
 	name=Petshop.ru
 	shop=pet
-	website=http://www.petshop.ru/
+	website=https://www.petshop.ru/
 	contact:vk=https://vk.com/club57
 	opening_hours=09:00-22:00
 
@@ -565,6 +584,16 @@
 	cuisine=pizza
 	website=http://pizzahut.spb.ru/
 	contact:vk=https://vk.com/pizzahutspb
+
+## Plaza
+
+	name=Plaza
+	shop=kitchen
+	website=http://www.plazareal.ru/
+	opening_hours=Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00
+	operator=ООО «Уна Фаббрика»
+
+* `website` можно уточнить на карте и в списке http://www.plazareal.ru/kontakty/sankt-peterburg/
 
 ## Prisma
 
@@ -596,9 +625,11 @@
 	brand=Rieker
 	brand:wikidata=Q2152193
 	shop=shoes
-	opening_hours=10:00-20:00
 
 Альтернативные теги:
+
+	opening_hours=10:00-20:00
+	opening_hours=10:00-21:00
 
 	operator=ООО «Атон»
 	operator=ООО «Эридана»
@@ -674,6 +705,10 @@
 	contact:vk=https://vk.com/club6727081
 
 * `name` и `website` можно уточнить в списке http://solo-hotel.com/
+
+## Sonata
+
+см. *Соната*
 
 ## Street
 
@@ -823,6 +858,16 @@
 	contact:vk=https://vk.com/tuiru
 
 * можно проверить на карте https://www.tui.ru/where-to-buy/?t=map
+
+## Unique Fabric
+
+	name=Unique Fabric
+	shop=clothes
+	website=https://uniquefabric.ru/
+	contact:vk=https://vk.com/uniquefabric
+	opening_hours=10:00-22:00
+
+* можно проверить в списке https://uniquefabric.ru/help/stores/
 
 ## Vardex
 
@@ -1192,6 +1237,20 @@
 
 * `website` можно уточнить на карте http://www.coffeeshopcompany.ru/address/
 
+## Вижен сервис
+
+см. *Невская оптика*
+
+## Викинг
+
+	name=Викинг
+	brand=Викинг
+	brand:wikidata=Q37650790
+	amenity=bureau_de_change
+	website=http://www.vikingbank.ru/
+
+* можно проверить в списке http://www.vikingbank.ru/viking_new2.nsf/ru/offices
+
 ## Виллерой и Бох
 
 	name=Виллерой и Бох
@@ -1246,6 +1305,8 @@
 	shop=variety_store
 	opening_hours=09:00-22:00
 
+* вместо накоторых открылись *Закка*
+
 ## ВТБ
 
 	name=ВТБ
@@ -1286,6 +1347,16 @@
 
 	shop=pastry
 	int_name=Garçon
+
+## География
+
+	name=География
+	shop=travel_agency
+	website=https://www.geograftour.com/
+	contact:vk=https://vk.com/geografspb
+	opening_hours=Mo-Fr 10:00-19:00
+
+* `website` можно уточнить на карте и в списке https://www.geograftour.com/office/Sankt-Peterburg/
 
 ## Глобэкс
 
@@ -1415,7 +1486,11 @@
 	cuisine=pizza
 	website=https://dodopizza.ru/
 	contact:vk=https://vk.com/dodospb
+
+Альтернативные теги:
+
 	opening_hours=09:00-01:00
+	opening_hours=10:00-23:00
 
 * `website` можно уточнить в списке https://dodopizza.ru/peterburg/contacts
 
@@ -1453,6 +1528,10 @@
 	website=http://www.friendsplace.ru/
 	contact:vk=https://vk.com/spbfriends
 
+Альтернативные теги:
+
+	tourism=hostel
+
 * `name` и `website` можно уточнить на карте и в списке http://www.friendsplace.ru/spb/
 
 ## Дэфо
@@ -1461,6 +1540,7 @@
 	shop=furniture
 	website=http://spb.defo.ru/
 	contact:vk=https://vk.com/defo_mebel
+	opening_hours=Mo-Fr 09:00-21:00; Sa-Su 10:00-19:00
 
 * `website` можно уточнить на карте и в списке http://spb.defo.ru/contacts/
 
@@ -1496,6 +1576,14 @@
 
 * `website` можно уточнить на карте и в списке https://euroset.ru/sankt-peterburg/shops/
 
+## Жан Руа
+
+	name=Жан Руа
+	shop=bakery
+	website=http://zhanrua.ru/
+	contact:vk=https://vk.com/zhanrua
+	opening_hours=09:00-22:00
+
 ## Зайди — увидишь
 
 	name=Зайди — увидишь
@@ -1504,6 +1592,15 @@
 	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
 
 * `website` можно уточнить в списке http://newglance.ru/nashi-salony/
+
+## Заначка
+
+	name=Заначка
+	shop=money_lender
+	website=https://zdengi.ru/
+	contact:vk=https://vk.com/zanachka_spb
+
+* можно проверить на карте https://zdengi.ru/kontakty/
 
 ## Заубер Банк
 
@@ -1659,6 +1756,18 @@
 	opening_hours=Mo-Fr 10:00-21:00; Sa 11:00-20:00; Su 11:00-19:00
 
 * `website` можно уточнить на карте и в списке https://kladzdor.ru/adresa-magazinov/
+
+## Компас здоровья
+
+	name=Компас здоровья
+	shop=health_food
+	website=http://www.smkfarm.ru/
+	contact:vk=https://vk.com/eco_bio_market
+	opening_hours=09:00-21:00
+	operator=ИП Круглова Екатерина Сергеевна
+
+* можно проверить на карте и в списке http://www.smkfarm.ru/contacts/stores/rossiya/sank-peterburg/
+* сайт http://kz-spb.ru/ не работает, но упоминается на vk
 
 ## Комус
 
@@ -1816,6 +1925,16 @@
 
 * `website` можно уточнить на карте и в списке https://laserdoctor.ru/contacts/
 
+## Лайм
+
+	name=Лайм
+	shop=supermarket
+	website=http://limefresh.ru/
+	opening_hours=24/7
+	operator=ООО «Сити Ритейл»
+
+* `website` можно уточнить в списке и на карте http://limefresh.ru/freshmarkets/
+
 ## Леди
 
 	name=Леди
@@ -1878,6 +1997,16 @@
 	operator=ООО «Макдоналдс»
 
 * `website` можно уточнить на карте https://mcdonalds.ru/restaurants/map
+
+## Мастер кебаб
+
+	name=Мастер кебаб
+	website=http://masterkebab.ru/
+	amenity=fast_food
+	cuisine=kebab
+	contact:vk=https://vk.com/public84455935
+
+* можно проверить на карте http://masterkebab.ru/index2.html
 
 ## Машина времени
 
@@ -2083,7 +2212,7 @@
 
 	name=Вижен сервис
 
-* можно проверить в списке и на карте https://noptica.ru/saloni/
+* `website` можно уточнить в списке и на карте https://noptica.ru/saloni/
 
 ## Невские берега
 
@@ -2276,8 +2405,12 @@
 	name=Петербургские аптеки
 	amenity=pharmacy
 	website=http://papteki.ru/
-	opening_hours=08:00-22:00
 	operator=АО «Петербургские аптеки»
+
+Альтернативные теги:
+
+	opening_hours=08:00-22:00
+	opening_hours=08:00-23:00
 
 * `website` можно уточнить в списке и на карте http://papteki.ru/apteki/
 
@@ -2390,6 +2523,10 @@
 	shop=supermarket
 	website=http://www.polushka.info/
 	opening_hours=24/7
+
+Альтернативные теги:
+
+	operator=ООО «Любавушка Ритейл Груп»
 	operator=ООО «Сити Ритейл»
 
 * `website` можно уточнить в списке http://www.polushka.info/spb-and-len-obl
@@ -2453,9 +2590,13 @@
 	amenity=pharmacy
 	website=http://apteka-raduga.ru/
 	contact:vk=https://vk.com/apteki_raduga_pp
-	operator=ООО «Роста»
 
-* можно проверить в списке http://apteka-raduga.ru/addresses/
+Альтернативные теги:
+
+	operator=ООО «Роста»
+	operator=ООО «Эркафарм Санкт-Петербург»
+
+* можно проверить в списке http://apteka-raduga.ru/addresses/spb/
 
 ## Райффайзенбанк
 
@@ -2622,7 +2763,8 @@
 	operator=ПАО «Сбербанк России»
 	operator:wikidata=Q205012
 
-* можно проверить на карте http://www.sberbank.ru/ru/about/today/oib
+* можно проверить на карте https://www.sberbank.ru/ru/about/today/oib
+* можно проверить на карте (для бизнеса) https://www.sberbank.ru/ru/about/today/oib?legal_person=1
 
 ## Связной
 
@@ -2803,6 +2945,17 @@
 
 * можно проверить на карте и в списке https://solncetur.ru/contacts
 
+## Соната
+
+	name=Соната
+	int_name=Sonata
+	tourism=hotel
+	website=http://hotel-sonata.ru/
+	contact:vk=https://vk.com/sonata_hotels_group
+
+* можно проверить в списке http://hotel-sonata.ru/raspolozhenie-.html
+* `name` и `website` можно уточнить у некоторых точек
+
 ## Спектр
 
 	name=Спектр
@@ -2892,6 +3045,27 @@
 
 * можно проверить на карте http://www.sushishop.ru/magaziny/
 
+## Счастливый взгляд
+
+	name=Счастливый взгляд
+	shop=optician
+	website=https://happylook.ru/
+	contact:vk=https://vk.com/happylook_ru
+	opening_hours=10:00-20:00
+	operator=ООО «Оптик Комфорт»
+
+* `website` можно уточнить на карте и в списке https://happylook.ru/stores/spb/
+
+## Табак Sity
+
+	name=Табак Sity
+	alt_name=Табак Сити
+	shop=tobacco
+	website=http://tabaksity.ru/
+	opening_hours=08:00-23:00
+
+* сайт не работает
+
 ## Табакерка
 
 	name=Табакерка
@@ -2910,7 +3084,11 @@
 	website=http://www.tang-ren.ru/
 	contact:vk=https://vk.com/tangrenspb
 	opening_hours=12:00-23:00
+
+Альтернативные теги:
+
 	operator=ООО «Родос»
+	operator=ООО «Тан Жен»
 
 * `website` можно уточнить в списке http://www.tang-ren.ru/rest.htm
 * у них на карте точек меньше, чем в списке
@@ -3120,6 +3298,17 @@
 	operator=ООО «Хондэ»
 
 * `website` можно уточнить в списке https://harbin-spb.ru/kontakty/
+
+## Хачапури и вино
+
+	name=Хачапури и вино
+	amenity=restaurant
+	cuisine=georgian
+	website=http://hachapuriivino.ru/
+	contact:vk=https://vk.com/hachapuriivino
+	opening_hours=09:00-03:00
+
+* можно проверить в списке http://hachapuriivino.ru/index.php?route=information/information&information_id=7
 
 ## Хесбургер
 
