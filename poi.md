@@ -60,6 +60,15 @@
 
 * можно проверить в списке http://allseasonscomfort.ru/shops/
 
+## Aloha
+
+	name=Aloha
+	shop=travel_agency
+	website=https://alohatur.ru/
+	contact:vk=https://vk.com/alohatour
+
+* `website` можно уточнить на карте https://alohatur.ru/contacts
+
 ## Anex Tour
 
 	name=Anex Tour
@@ -120,6 +129,15 @@
 
 * можно проверить на карте и в списке http://beerhousebar.ru/
 
+## Bengel
+
+	name=Bengel
+	shop=bakery
+	website=http://bengel.ru/
+	contact:vk=https://vk.com/bengelbakery
+
+* можно проверить на карте и в списке http://bengel.ru/#maps
+
 ## Bileter
 
 	name=Bileter
@@ -163,6 +181,17 @@
 
 * можно проверить на карте внизу страницы http://coffeers.ru/
 
+## Coral Travel
+
+	name=Coral Travel
+	shop=travel_agency
+	website=http://www.coral.ru/
+	contact:vk=https://vk.com/coraltravel
+	opening_hours=Mo-Fr 10:00-21:00; Sa-Su 11:00-20:00
+	operator=ООО «Аксиома»
+
+* `website` можно уточнить на карте http://www.coral.ru/offices
+
 ## Cream.Shop
 
 	name=Cream.Shop
@@ -204,6 +233,18 @@
 	opening_hours=Mo-Fr 07:00-22:00; Sa-Su 10:00-22:00
 
 * можно проверить в списке http://dff24.ru/shops
+
+## Ecco
+
+	name=Ecco
+	brand=Ecco
+	brand:wikidata=Q1280255
+	shop=shoes
+	website=https://www.ecco-shoes.ru/
+	contact:vk=https://vk.com/eccoru
+	opening_hours=10:00-22:00
+
+* `website` можно уточнить на карте https://www.ecco-shoes.ru/shops/
 
 ## Elit
 
@@ -289,6 +330,17 @@
 
 * можно проверить на карте и в списке http://greenboxes.ru/#Cont
 
+## Högl
+
+	name=Högl
+	shop=shoes
+	website=https://hoegl.ru/
+	contact:vk=https://vk.com/hogl_russia
+	opening_hours=10:00-21:00
+	operator=ООО «Хёгель Шу Фэшн»
+
+* можно проверить на карте и в списке https://hoegl.ru/about/stores/
+
 ## IL Патио
 
 	name=IL Патио
@@ -360,6 +412,19 @@
 	operator=ООО «Керама-СПб»
 
 * можно проверить на карте и в списке http://spb.kerama-marazzi.com/ru/wheretobuy/shops.php?IBLOCK_ID=13&SECTION_ID=1473
+
+## KFC
+
+	name=KFC
+	brand=KFC
+	brand:wikidata=Q524757
+	amenity=fast_food
+	website=https://www.kfc.ru/
+	contact:vk=https://vk.com/kfcrussia
+	opening_hours=24/7
+	operator=ООО «АмРест»
+
+* `website` можно уточнить на карте https://www.kfc.ru/restaurants
 
 ## Kiss Fashion
 
@@ -471,6 +536,18 @@
 	contact:vk=https://vk.com/marko_obuv
 
 * можно проверить в списке http://www.markoclub.ru/belobuvshops
+
+## mi-shop.com
+
+	name=mi-shop.com
+	brand=Xiaomi
+	brand:wikidata=Q1636958
+	shop=mobile_phone
+	website=https://mi-shop.com/
+	contact:vk=https://vk.com/mi.russia
+	opening_hours=10:00-22:00
+
+* можно проверить на карте и в списке https://mi-shop.com/ru/shops/
 
 ## Mini-Mani
 
@@ -608,6 +685,18 @@
 
 * `website` можно уточнить в списке и на карте http://www.prismamarket.ru/misc/nashi-magaziny
 
+## re:Store
+
+	name=re:Store
+	brand=re:Store
+	brand:wikidata=Q7486956
+	website=https://www.re-store.ru/
+	shop=computer
+	contact:vk=https://vk.com/re_store
+	opening_hours=10:00-22:00
+
+* можно проверить в списке и на карте https://www.re-store.ru/shops/
+
 ## Redmond
 
 	name=Redmond
@@ -665,6 +754,10 @@
 
 * можно проверить на карте и в списке http://shisha-rf.com/shops
 
+##
+
+* можно проверить на карте и в списке https://www.samsonite.ru/store-locator/
+
 ## Samsonov Hotels
 
 	name=Samsonov Hotels
@@ -709,6 +802,24 @@
 ## Sonata
 
 см. *Соната*
+
+## Spar
+
+	name=Spar
+	brand=Spar
+	brand:wikidata=Q610492
+	shop=supermarket
+	website=http://www.sparspb.ru/
+	contact:vk=https://vk.com/spar_spb
+	opening_hours=24/7
+	operator=ООО «ТД Интерторг»
+	operator:wikidata=Q16655827
+
+Альтернативные теги:
+
+	name=Spar Express
+
+* `website` можно уточнить в списке и на карте http://www.sparspb.ru/index/magaziny
 
 ## Street
 
@@ -757,6 +868,7 @@
 	amenity=bar
 	website=http://www.barspb.ru/
 	contact:vk=https://vk.com/barspb_official
+	opening_hours=Su-Th 12:00-02:00, Fr-Sa 12:00-05:00
 
 * можно проверить на карте http://www.barspb.ru/contacts.html
 
@@ -777,6 +889,16 @@
 
 * можно проверить на карте https://spb.tele2.ru/offices
 * `contact:vk=https://vk.com/tele2spb` больше не поддерживается
+
+## Thomas Münz
+
+	name=Thomas Münz
+	shop=shoes
+	website=http://thomas-muenz.ru/
+	contact:vk=https://vk.com/thomas_munz
+	opening_hours=10:00-22:00
+
+* `website` можно уточнить в списке и на карте http://thomas-muenz.ru/salony
 
 ## Timberland
 
@@ -818,6 +940,8 @@
 	shop=bed
 	website=https://www.togas.com/ru/
 	contact:vk=https://vk.com/togastextile
+	opening_hours=10:00-22:00
+	operator=ИП «Тогкас Павлос»
 
 * можно проверить на карте https://www.togas.com/ru/boutiques/
 
@@ -830,6 +954,17 @@
 	contact:vk=https://vk.com/toperchina
 
 * `website` можно уточнить в списке и на карте https://toperspb.ru/kontakty/
+
+## Trives
+
+	name=Trives
+	shop=medical_supply
+	medical_supply=orthopedic
+	website=http://trives-shop.ru/
+	contact:vk=https://vk.com/club_trives_spb
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить в списке и на карте http://trives-shop.ru/store/
 
 ## Truvor
 
@@ -1249,6 +1384,10 @@
 	amenity=bureau_de_change
 	website=http://www.vikingbank.ru/
 
+Альтернативные теги:
+
+	amenity=bank
+
 * можно проверить в списке http://www.vikingbank.ru/viking_new2.nsf/ru/offices
 
 ## Виллерой и Бох
@@ -1479,6 +1618,16 @@
 
 * можно проверить на карте https://dozarplati.com/about/branches
 
+## Доверие
+
+	name=Доверие
+	shop=pawnbroker
+	website=https://doveriegroup.ru/
+	contact:vk=https://vk.com/lombard_doverie
+	opening_hours=08:00-20:00
+
+* `website` можно уточнить в списке и на карте https://doveriegroup.ru/contacts
+
 ## Додо Пицца
 
 	name=Додо Пицца
@@ -1590,6 +1739,7 @@
 	shop=optician
 	website=http://newglance.ru/
 	opening_hours=Mo-Sa 10:00-21:00; Su 11:00-20:00
+	operator=ООО «Зайди — увидишь»
 
 * `website` можно уточнить в списке http://newglance.ru/nashi-salony/
 
@@ -1642,6 +1792,17 @@
 	opening_hours=10:00-22:00
 
 * можно проверить на карте и в списке https://www.gold585.ru/contacts/shops/sankt-peterburg/
+
+## Императорский фарфор
+
+	name=Императорский фарфор
+	brand=Императорский фарфоровый завод
+	brand:wikidata=Q1303887
+	shop=houseware
+	website=http://www.ipm.ru/
+	contact:vk=https://vk.com/ipm_ru
+
+* `website` можно уточнить на карте и в списке http://www.ipm.ru/shops/
 
 ## Империя платья
 
@@ -1785,6 +1946,16 @@
 ## Комфорт Все сезоны
 
 см. *All Seasons Комфорт*
+
+## Контакт бар
+
+	name=Контакт бар
+	amenity=bar
+	website=http://kontaktbar.ru/
+	contact:vk=https://vk.com/kontaktbar
+	opening_hours=Mo-Fr13:00-06:00, Sa-Su 14:00-06:00
+
+* `website` можно уточнить в списке http://kontaktbar.ru/bars/
 
 ## Котофей
 
@@ -1945,6 +2116,15 @@
 
 * `website` можно уточнить на карте и в списке https://lady-rf.ru/%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0/
 
+## Лига Ставок
+
+	name=Лига Ставок
+	shop=bookmaker
+	website=https://www.ligastavok.ru/
+	contact:vk=https://vk.com/ligastavok_official
+
+* можно проверить на карте http://corp.ligastavok.ru/Shops/sankt-peterburg/18
+
 ## Линдфорс
 
 	name=Линдфорс
@@ -2089,6 +2269,17 @@
 * `website` и `name` можно уточнить в списке https://gu.spb.ru/mfc/list/
 * можно проверить на карте https://моидокументы.рф/search/mfc
 
+## Монополь
+
+	name=Монополь
+	shop=alcohol
+	website=https://www.monopolshop.com/
+	contact:vk=https://vk.com/monopolbar
+	opening_hours=11:00-22:00
+	operator=ООО «Монополь-Бар»
+
+* `website` можно уточнить в списке https://www.monopolshop.com/restaurant/
+
 ## Море чая
 
 	name=Море чая
@@ -2184,6 +2375,16 @@
 	opening_hours=09:00-22:00
 
 * `website` можно уточнить в списке http://www.present.ru/salony/#yakor2
+
+## Настроение
+
+	name=Настроение
+	shop=florist
+	website=https://buket-podarki.ru/
+	contact:vk=https://vk.com/nastroeniespb
+	opening_hours=08:00-22:00
+
+* можно проверить на карте и в списке https://buket-podarki.ru/main/kontakty.html
 
 ## Невис
 
@@ -2704,6 +2905,16 @@
 
 * `website` можно уточнить на карте и в списке https://www.rgsbank.ru/about/branches_and_atms/
 
+## Роскошь золота
+
+	name=Роскошь золота
+	shop=jewelry
+	website=http://rzol.ru/
+	contact:vk=https://vk.com/roskosh_zolota
+	opening_hours=10:00-21:00
+
+* можно проверить в списке и на карте http://rzol.ru/contacts/
+
 ## Роспечать
 
 	name=Роспечать
@@ -2825,6 +3036,7 @@
 
 	operator=ООО «Витан»
 	operator=ООО «ТК Прогресс»
+	operator=ООО «ТК Триумф»
 
 * можно проверить в меню *Адреса магазинов* на https://vk.com/7shagoff
 
@@ -3123,8 +3335,12 @@
 	cuisine=pancake
 	website=http://www.teremok.ru/
 	contact:vk=https://vk.com/teremok
-	opening_hours=Mo-Fr 07:30-23:00; Sa-Su,PH 08:30-23:00
 	operator=ООО «Теремок — Русские Блины»
+
+Альтернативные теги:
+
+	opening_hours=Mo-Fr 07:30-23:00; Sa-Su,PH 08:30-23:00
+	opening_hours=08:30-23:00
 
 * `website` можно уточнить на карте и в списке http://www.teremok.ru/address/
 
@@ -3339,6 +3555,16 @@
 	contact:vk=https://vk.com/shoesfromyou
 	opening_hours=10:00-21:00
 
+## Цветовик
+
+	name=Цветовик
+	shop=florist
+	website=https://cvetovik.com/
+	contact:vk=https://vk.com/cvetovikspb
+	opening_hours=24/7
+
+* можно проверить на карте https://cvetovik.com/contacts/
+
 ## Цветомания
 
 	name=Цветомания
@@ -3433,7 +3659,13 @@
 	amenity=cafe
 	website=https://spb.stolle.ru/
 	contact:vk=https://vk.com/stollerussia
+
+Альтернативные теги:
+
 	opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00
+	opening_hours=09:00-21:00
+
+	operator=ООО «Столовая №55»
 	operator=ООО «Столовая №63»
 
 * `website` можно уточнить на карте и в списке https://spb.stolle.ru/addresses
@@ -3545,3 +3777,12 @@
 	opening_hours=09:00-21:00
 
 `website` можно уточнить на карте и в списке https://www.yarkiy.ru/stores
+
+## Яркий мир рукоделия
+
+	name=Яркий мир рукоделия
+	shop=sewing
+	website=http://mir-ruk.ru/
+	contact:vk=https://vk.com/mir_rukodelija
+
+* можно проверить в списке http://mir-ruk.ru/store/
