@@ -1,3 +1,13 @@
+## 1000 и одна сумка
+
+	name=1000 и одна сумка
+	shop=bag
+	website=https://1000i1sumka.ru/
+	contact:vk=https://vk.com/sumok1001
+	opening_hours=11:00-21:00
+
+* можно проверить на карте и в списке https://1000i1sumka.ru/shops
+
 ## 1x
 
 	name=1x
@@ -73,7 +83,7 @@
 
 	name=Anex Tour
 	shop=travel_agency
-	website=http://b2c.anextour.com/
+	website=https://b2c.anextour.com/
 	contact:vk=https://vk.com/anextourrussia
 
 * разные операторы
@@ -162,6 +172,13 @@
 
 * `website` можно уточнить поиском на https://ru.calzedonia.com/custserv/locate_store.cmd
 
+## Coffee Bon
+
+	name=Coffee Bon
+	amenity=fast_food
+	cuisine=coffee_shop
+	contact:vk=https://vk.com/coffee_bon
+
 ## Coffee Like
 
 	name=Coffee Like
@@ -230,7 +247,10 @@
 
 Альтернативные теги:
 
+	name=DNS сервис
 	name=DNS цифровой
+
+	craft=electronics_repair
 
 * `website` можно уточнить на карте и в списке https://www.dns-shop.ru/shops/spb/
 
@@ -276,7 +296,11 @@
 	brand:wikidata=Q661869
 	amenity=language_school
 	website=https://www.ef.ru/
-	contact:vk=https://vk.com/englishfirstrussia
+	opening_hours=Mo-Fr 09:00-22:00; Sa 10:00-16:00; Su 10:00-15:00
+
+Альтернативные теги:
+
+	contact:vk=https://vk.com/englishfirstadults
 
 * `website` (для взрослых) можно уточнить в списке и на карте https://www.ef.ru/englishfirst/adults/centers/st-petersburg/
 * `website` (для детей) можно уточнить в списке и на карте https://www.ef.ru/englishfirst/kids/city/stpetersburg
@@ -302,6 +326,25 @@
 	contact:vk=https://vk.com/etloncoffee
 
 * можно проверить в списке https://vk.com/etloncoffee?w=page-140109615_54648833
+
+## Extaz
+
+	name=Extaz
+	shop=erotic
+	website=https://www.extazshop.ru/
+	contact:vk=https://vk.com/extazshop
+	opening_hours=24/7
+
+* `website` можно уточнить
+
+## Feromon
+
+	name=Feromon
+	amenity=hookah_lounge
+	website=http://feromon.group/
+	contact:vk=https://vk.com/kalyannie_spb
+
+* `website` и `contact:vk` можно уточнить в списке http://feromon.group/
 
 ## Fix Price
 
@@ -407,6 +450,7 @@
 	name=K-9
 	shop=pet
 	contact:vk=https://vk.com/zoo_k9
+	opening_hours=10:00-20:00
 
 * `contact:vk` можно уточнить для некоторых точек
 
@@ -1226,6 +1270,15 @@
 
 * `website` можно уточнить на карте и в списке https://av.ru/shops/#spb
 
+## Алекс Отель
+
+	name=Алекс Отель
+	tourism=hotel
+	website=https://alexhotels.ru/
+	contact:vk=https://vk.com/alexhotelspb
+
+* `website` можно уточнить в списке https://alexhotels.ru/hotels/
+
 ## Александр Недвижимость
 
 	name=Александр Недвижимость
@@ -1233,6 +1286,16 @@
 	website=https://anspb.ru/
 
 * `website` можно уточнить в списке и на карте https://anspb.ru/contacts.php
+
+## Алоэ
+
+	name=Алоэ
+	amenity=pharmacy
+	website=https://aloeapteka.ru/
+	contact:vk=https://vk.com/aptekaaloea
+	opening_hours=Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00
+
+* можно проверить в списке и на карте https://aloeapteka.ru/adresa/sankt-peterburg/
 
 ## Альфа-Банк
 
@@ -1556,6 +1619,16 @@
 
 * можно проверить на карте https://www.vostbank.ru/office/
 
+## ВотОнЯ
+
+	name=ВотОнЯ
+	shop=baby_goods
+	website=https://www.votonia.ru/
+	contact:vk=https://vk.com/votonia
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить в списке https://www.votonia.ru/adresa-magazinov/
+
 ## Всё что нужно
 
 	name=Всё что нужно
@@ -1828,6 +1901,7 @@
 	amenity=restaurant
 	website=https://evrasia.spb.ru/
 	contact:vk=https://vk.com/evrasiaspb
+	opening_hours=12:00-05:00
 
 * можно проверить на карте и в списке https://evrasia.spb.ru/restaurants/
 * разные операторы
@@ -2104,6 +2178,14 @@
 
 * `website` можно уточнить в списке http://kontaktbar.ru/bars/
 
+## Копирка
+
+	name=Копирка
+	shop=copyshop
+	website=https://kopirka.ru/
+
+* `website` можно уточнить на карте и в списке https://kopirka.ru/offices-spb/
+
 ## Котофей
 
 	name=Котофей
@@ -2225,6 +2307,17 @@
 * можно проверить на карте https://www.labirint.ru/maps/
 * `website` можно уточнить, но у них в списке не все пункты
 
+## ЛабСтори
+
+	name=ЛабСтори
+	amenity=doctors
+	health_facility:type=laboratory
+	website=https://www.labstori.ru/
+	contact:vk=https://vk.com/labstori
+	opening_hours=Mo-Fr 08:00-17:00; Sa 09:00-15:00
+
+* можно проверить на карте https://www.labstori.ru/pacientam/contacts/
+
 ## Лавка Пекаря
 
 	name=Лавка Пекаря
@@ -2262,6 +2355,16 @@
 	opening_hours=10:00-21:00
 
 * `website` можно уточнить на карте и в списке https://lady-rf.ru/%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0/
+
+## ЛенОблФарм
+
+	name=ЛенОблФарм
+	amenity=pharmacy
+	website=https://lenoblpharm.ru/
+	opening_hours=09:00-21:00
+	operator=ООО «Аптека «Семейная-2»
+
+* можно проверить на карте и в списке https://lenoblpharm.ru/#map_page
 
 ## Лига Ставок
 
@@ -2577,6 +2680,9 @@
 
 Альтернативные теги:
 
+	operator=ООО «Аптека Дао-Фарм»
+	operator=ООО «Аптеки Невис»
+
 	opening_hours=09:00-21:00
 	opening_hours=24/7
 
@@ -2640,6 +2746,7 @@
 	contact:vk=https://vk.com/ozerkiapteka
 	opening_hours=Mo-Fr 07:00-23:00; Sa-Su 08:00-22:00
 	operator=ООО «Аптеки Бинко»
+	operator=ООО «Эркафарм Северо-Запад»
 
 * можно проверить на карте https://6030000.ru/map/
 
@@ -3037,6 +3144,17 @@
 	opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00
 
 * можно проверить на карте http://www.reso.ru/About/Contacts/
+
+## РЕСО-Мед
+
+	name=РЕСО-Мед
+	office=insurance
+	website=https://spb.reso-med.com/
+	contact:vk=https://vk.com/resomed
+	opening_hours=Mo-Fr 09:30-18:00
+	operator=ООО «СМК РЕСО-Мед»
+
+* можно проверить на карте https://spb.reso-med.com/police_omc/where_get_policy_omc/
 
 ## Рив Гош
 
@@ -3528,8 +3646,14 @@
 	fast_food=cafeteria
 	website=http://tarelkas.ru/
 	contact:vk=https://vk.com/tarelka_st
+
+Альтернативные теги:
+
 	opening_hours=08:00-23:00
+	opening_hours=Su-We 07:30-23:00; Th-Sa 00:00-24:00
+
 	operator=ООО «Арес»
+	operator=ООО «Прогресс+»
 
 * `website` можно уточнить в списке http://tarelkas.ru/cafes/
 * `website` можно уточнить на карте http://tarelkas.ru/cafes/map/
@@ -3675,6 +3799,17 @@
 
 * можно проверить в списке https://www.chay.info/store/sanktpeterburg/
 
+## Уральский банк реконструкции и развития
+
+	name=Уральский банк реконструкции и развития
+	brand=Уральский банк реконструкции и развития
+	brand:wikidata=Q4476745
+	amenity=bank
+	website=https://spb.ubrr.ru/
+	contact:vk=https://vk.com/bank_ubrr
+
+* можно проверить на карте https://spb.ubrr.ru/ofisy-i-bankomaty
+
 ## Фаворит
 
 	name=Фаворит
@@ -3699,6 +3834,15 @@
 	opening_hours=24/7
 
 * можно проверить на карте https://eliteflower.ru/kontakty/
+
+## Фара
+
+	name=Фара
+	amenity=driving_school
+	website=http://auto-fara.ru/
+	contact:vk=https://vk.com/auto_fara
+
+* `website` можно уточнить
 
 ## Фиалка
 
