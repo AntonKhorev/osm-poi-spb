@@ -234,6 +234,17 @@
 
 * `website` можно уточнить на карте и в списке https://deadsea-cosmetics.ru/shops/spb-shops/
 
+## Cup'n'Cup
+
+	name=Cup'n'Cup
+	amenity=fast_food
+	cuisine=coffee_shop
+	website=http://cup-n-cup.com/
+	contact:vk=https://vk.com/cupncup
+	opening_hours=Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00
+
+* можно проверить в списке http://cup-n-cup.com/#address
+
 ## DNS
 
 	name=DNS
@@ -556,6 +567,15 @@
 
 * можно проверить на карте https://www.lamoda.ru/delivery/
 
+## Leon Coffee
+
+	name=Leon Coffee
+	amenity=fast_food
+	cuisine=coffee_shop
+	contact:vk=https://vk.com/leoncoffeespb
+
+* сайт франшизы без информации о точках http://leoncoffee.ru/
+
 ## Lilkko
 
 	name=Lilkko
@@ -852,6 +872,7 @@
 	massage=thai
 	website=http://www.royalthai.ru/
 	contact:vk=https://vk.com/royal_thai
+	opening_hours=10:00-22:00
 
 * `website` можно уточнить в списке http://www.royalthai.ru/#anchor-screen-8
 
@@ -1006,6 +1027,19 @@
 
 * можно проверить на карте https://spb.tele2.ru/offices
 * `contact:vk=https://vk.com/tele2spb` больше не поддерживается
+* разные операторы
+
+## Tez Tour
+
+	name=Tez Tour
+	brand=Tez Tour
+	brand:wikidata=Q4453727
+	shop=travel_agency
+	website=https://www.tez-tour.com/ru/spb/
+	contact:vk=https://vk.com/teztourrf
+
+* можно проверить на карте и в списке https://www.tez-tour.com/ru/spb/whereToBuy.html?id=3000003
+* у офисов могут быть свои сайты
 
 ## Thomas Münz
 
@@ -1370,11 +1404,14 @@
 	office=telecommunication
 	website=https://spb.beeline.ru/
 	contact:vk=https://vk.com/beeline
+	operator=ПАО «ВымпелКом»
+	operator:wikidata=Q1562664
 
 Альтернативные теги:
 
 	opening_hours=09:00-21:00
 	opening_hours=10:00-22:00
+	opening_hours=24/7
 
 * можно проверить на карте https://spb.beeline.ru/customers/beeline-on-map/
 
@@ -1522,9 +1559,6 @@
 	brand:wikidata=Q18401767
 	shop=butcher
 	opening_hours=Mo 10:00-22:00; Tu-Sa 09:00-22:00; Su 09:00-21:00
-
-Альтернативные теги:
-
 	operator=ООО «Меркурий»
 
 * http://www.vlmk.spb.ru/ не подходит, так как относится к самому комбинату
@@ -1633,9 +1667,21 @@
 
 	name=Всё что нужно
 	shop=variety_store
+
+Альтернативные теги:
+
 	opening_hours=09:00-22:00
+	opening_hours=Mo-Fr 09:00-22:00; Sa-Su 10:00-20:00
 
 * вместо накоторых открылись *Закка*
+
+## ВСК
+
+	name=ВСК
+	office=insurance
+	website=https://www.vsk.ru/offices/30348586/
+
+* `website` можно уточнить на карте и в списке https://www.vsk.ru/offices/city/422/
 
 ## ВТБ
 
@@ -1733,12 +1779,12 @@
 ## Горячие туры
 
 	name=Горячие туры
-	shop=travel_agency
-	website=http://www.hottspb.ru/
-	contact:vk=https://vk.com/hottmanagementcompany
 	brand=Горячие туры
+	shop=travel_agency
+	website=https://www.hott.ru/
+	contact:vk=https://vk.com/hott.travel
 
-* `name` и `website` можно уточнить в списке и на карте http://www.hottspb.ru/ofisi_na_glavnoy/
+* `name` и `website` можно уточнить в списке и на карте https://www.hott.ru/offices/
 
 ## Градусы всего мира
 
@@ -1810,6 +1856,14 @@
 
 * можно проверить на карте https://dixy.ru/nearest-shop/
 * на карте у некоторых кривые координаты, может понадобиться поиск
+
+## Для тебя
+
+	name=Для тебя
+	shop=pawnbroker
+	website=http://www.lombards.spb.ru/
+
+* можно проверить в списке http://www.lombards.spb.ru/index.php/ru/otdeleniya
 
 ## До зарплаты
 
@@ -1955,6 +2009,18 @@
 
 * можно проверить на карте https://zdengi.ru/kontakty/
 
+## ЗаПутёвкой.рф
+
+	name=ЗаПутёвкой.рф
+	shop=travel_agency
+	website=http://запутевкой.рф/
+	contact:vk=https://vk.com/zaputevkoy
+	opening_hours=Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-18:00
+	operator=ООО «Золотые Ворота»
+
+* можно проверить в списке и на карте http://запутевкой.рф/adress
+* вместе с *Эксперт Групп*
+
 ## Заубер Банк
 
 	amenity=bank
@@ -2075,13 +2141,17 @@
 
 	name=Калейдоскоп напитков мира
 	shop=alcohol
-	website=http://www.napitkimira.com/
+	website=https://www.napitkimira.com/
 	contact:vk=https://vk.com/napitkimiracom
 	opening_hours=10:00-22:00
 	operator=ООО «Калейдоскоп»
 
-* можно проверить на карте http://www.napitkimira.com/map/
-* `website` можно уточнить в списке http://www.napitkimira.com/magaziny/
+Альтернативные теги:
+
+	name=Напитки мира
+
+* можно проверить на карте https://www.napitkimira.com/map/
+* `website` можно уточнить в списке https://www.napitkimira.com/magaziny/
 
 ## Канцелярская Мекка
 
@@ -2482,12 +2552,14 @@
 	office=telecommunication
 	website=https://spb.megafon.ru/
 	contact:vk=https://vk.com/megafon
-	opening_hours=09:00-21:00
 	operator=АО «МегаФон Ритейл»
 
 Альтернативные теги:
 
 	name=МегаФон Экспресс
+
+	opening_hours=09:00-21:00
+	opening_hours=09:00-22:00
 
 * можно проверить на карте https://spb.megafon.ru/help/offices/
 
@@ -2839,6 +2911,20 @@
 
 * `website` можно уточнить в списке http://pactor.ru/shops/
 
+## Папа Джонс
+
+	name=Папа Джонс
+	brand=Papa John's
+	brand:wikidata=Q2759586
+	amenity=cafe
+	cuisine=pizza
+	website=https://spb.papajohns.ru/adresa/spb-10
+	contact:vk=https://vk.com/papajohnsru
+	opening_hours=Su-Th 11:00-01:00, Fr-Sa 11:00-03:00
+	operator=ООО «Пи Джей Евразия»
+
+* `website` можно уточнить в списке и на карте https://spb.papajohns.ru/adresa/
+
 ## Папироска.рф
 
 	name=Папироска.рф
@@ -2934,6 +3020,15 @@
 
 * можно проверить в списке и на карте http://www.петроторг-атк.рф/shops/
 
+## Петроэлектросбыт
+
+	name=Петроэлектросбыт
+	office=energy_supplier
+	website=https://www.pes.spb.ru/
+	contact:vk=https://vk.com/petroelektrosbyt
+	opening_hours=Mo-Sa 09:30-20:30
+	operator=АО «Петроэлектросбыт»
+
 ## ПиLки
 
 	name=ПиLки
@@ -2946,6 +3041,7 @@
 Альтернативные теги:
 
 	operator=ИП Сенин Владимир Юрьевич
+	operator=ИП Сенин В.Ю.
 	operator=ИП Сенина Н.В.
 
 * можно проверить в списке https://pilkinail.ru/studio?list
@@ -3172,6 +3268,16 @@
 	opening_hours=Su-Th 10:00-21:00; Fr-Sa 10:00-22:00
 
 * `website` можно уточнить на карте и в списке http://www.rivegauche.ru/shops/cities/sankt-peterburg
+
+## Розовый Кролик
+
+	name=Розовый Кролик
+	shop=erotic
+	website=https://www.rozoviykrolik.ru/
+	contact:vk=https://vk.com/rozovyjkrolik
+	opening_hours=24/7
+
+* можно проверить на карте и в списке https://www.rozoviykrolik.ru/shop/sankt-peterburg/
 
 ## РосАл
 
@@ -4059,6 +4165,18 @@
 	operator=ООО «Столовая №63»
 
 * `website` можно уточнить на карте и в списке https://spb.stolle.ru/addresses
+
+## Эксперт Групп
+
+	name=Эксперт Групп
+	office=insurance
+	website=https://expert-spb.com/
+	contact:vk=https://vk.com/expert_grupp
+	opening_hours=Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-18:00
+	operator=ООО «Эксперт Групп»
+
+* можно проверить в списке и на карте https://expert-spb.com/address/
+* вместе с *ЗаПутёвкой.рф*
 
 ## ЭнергоМашБанк
 
