@@ -87,6 +87,16 @@
 
 * `website` можно уточнить на карте https://alohatur.ru/contacts
 
+## Amagi Love
+
+	name=Amagi Love
+	leisure=dance
+	dance:teaching=yes
+	website=http://amagilove.ru/
+	contact:vk=https://vk.com/amagi_love
+
+* можно проверить в списке http://amagilove.ru/contacts
+
 ## Anex Tour
 
 	name=Anex Tour
@@ -128,10 +138,13 @@
 	website=http://bagginscoffee.ru/
 	contact:vk=https://vk.com/bagginscoffee
 	opening_hours=Mo-Sa 08:00-21:00; Su 09:00-21:00
+	operator=ООО «Бэггинс Кофе»
 
 Альтернативные теги:
 
 	amenity=fast_food
+
+* можно проверить в списке http://bagginscoffee.ru/shops/
 
 ## Beer House
 
@@ -368,11 +381,18 @@
 ## Fix Price
 
 	name=Fix Price
+	name:en=Fix Price
 	brand=Fix Price
 	brand:wikidata=Q4038791
 	shop=variety_store
 	website=https://fix-price.ru/
+	contact:facebook=https://www.facebook.com/fixprice.russia
+	contact:instagram=https://www.instagram.com/fixprice.russia/
+	contact:ok=https://ok.ru/fixprice
+	contact:twitter=https://twitter.com/fix_price
 	contact:vk=https://vk.com/fix_price
+	contact:youtube=https://www.youtube.com/user/fixprice36
+	phone=+7 800 7753515
 	operator=ООО «Бэст Прайс»
 
 Альтернативные теги:
@@ -380,7 +400,7 @@
 	opening_hours=09:00-21:00
 	opening_hours=10:00-22:00
 
-* можно проверить на карте и в списке https://fix-price.ru/buyers/shops/sankt-peterburg/
+* можно проверить на карте и в списке https://fix-price.ru/stores/
 
 ## Goldenpoint
 
@@ -414,6 +434,12 @@
 	opening_hours=08:00-23:00
 
 * можно проверить на карте и в списке http://greenboxes.ru/#Cont
+
+## Hard Coin
+
+	name=Hard Coin
+	shop=hairdresser
+	contact:vk=https://vk.com/barbershophardcoin
 
 ## Högl
 
@@ -661,6 +687,15 @@
 
 * можно проверить в списке http://www.markoclub.ru/belobuvshops
 
+## Mascotte
+
+	name=Mascotte
+	shop=shoes
+	website=https://www.mascotte.ru/
+	contact:vk=https://vk.com/mascotte_shoes
+
+* можно проверить на карте и в списке https://www.mascotte.ru/site/salons
+
 ## mi-shop.com
 
 	name=mi-shop.com
@@ -679,6 +714,17 @@
 	tourism=hostel
 	website=http://www.minimani-spb.ru/
 	contact:vk=https://vk.com/mini_mani
+
+## Mouse Tail
+
+	name=Mouse Tail
+	amenity=fast_food
+	cuisine=coffee_shop
+	website=http://mousetail.ru/
+	contact:vk=https://vk.com/mousetail
+	contact:instagram=https://www.instagram.com/ilovemousetail/
+
+* можно проверить на карте и в списке https://vk.com/mousetail?w=page-170495105_55621882
 
 ## Mr.Doors
 
@@ -810,6 +856,16 @@
 
 * `website` можно уточнить на карте и в списке http://www.plazareal.ru/kontakty/sankt-peterburg/
 
+## Prachka.com
+
+	name=Prachka.com
+	shop=laundry
+	website=http://prachka.com/
+	contact:vk=https://vk.com/prachkacom
+	opening_hours=10:00-22:00
+
+* `website` можно уточнить в списке и на карте http://prachka.com/adresa_prachechnyh.html
+
 ## Prisma
 
 	name=Prisma
@@ -925,6 +981,16 @@
 * возможно также http://www.pitersutki.ru/
 * у некоторых `contact:vk` можно уточнить
 
+## Selfie
+
+	name=Selfie
+	shop=beauty
+	website=http://salonselfie.ru/
+	contact:vk=https://vk.com/salonselfie
+	opening_hours=10:00-22:00
+
+`website` можно уточнить в списке http://salonselfie.ru/kontakty/
+
 ## SkillSet
 
 	name=SkillSet
@@ -978,6 +1044,15 @@
 	opening_hours=08:00-23:00
 
 * `website` можно уточнить в списке и на карте http://www.sparspb.ru/index/magaziny
+
+## Stories
+
+	name=Stories
+	amenity=cafe
+	website=http://stories.ru.com/
+	contact:vk=https://vk.com/spb_stories
+
+* можно проверить на карте и в списке http://stories.ru.com/our-cofebar.html
 
 ## Street
 
@@ -1352,6 +1427,12 @@
 
 * можно проверить в списке и на карте https://aloeapteka.ru/adresa/sankt-peterburg/
 
+## АлтынКум
+
+	name=АлтынКум
+	shop=convenience
+	website=http://altyn-kym.ru/
+
 ## Альфа-Банк
 
 	name=Альфа-Банк
@@ -1367,6 +1448,16 @@
 * `website` можно уточнить в списке https://alfabank.ru/office/peterburg/list/
 * можно проверить на карте https://alfabank.ru/office/peterburg/map/
 * часто бывает два разных отделения в одном месте
+
+## Анкер
+
+	name=Анкер
+	shop=watches
+	website=http://www.ankershop.ru/
+	contact:vk=https://vk.com/ankershop
+	opening_hours=Mo-Sa 10:00-20:00; Su 11:00-19:00
+
+* `website` можно уточнить в списке http://www.ankershop.ru/stores/
 
 ## Ароматный мир
 
@@ -1417,6 +1508,15 @@
 
 * можно проверить в списке https://vk.com/topic-165282695_38691225
 * здесь старые адреса http://belorusdvorik.ru/adresa-vsekh-magazinov.html
+
+## БельёМоё
+
+	name=БельёМоё
+	shop=dry_cleaning
+	website=http://belyomoyo.ru/
+	contact:vk=https://vk.com/bmoyo
+
+* `website` можно уточнить в списке http://belyomoyo.ru/category/adress/
 
 ## Билайн
 
@@ -1608,8 +1708,12 @@
 	brand=Великолукский мясокомбинат
 	brand:wikidata=Q18401767
 	shop=butcher
-	opening_hours=Mo 10:00-22:00; Tu-Sa 09:00-22:00; Su 09:00-21:00
 	operator=ООО «Меркурий»
+
+Альтернативные теги:
+
+	opening_hours=Mo-Sa 09:00-21:00; Su 09:00-20:00
+	opening_hours=Mo 10:00-22:00; Tu-Sa 09:00-22:00; Su 09:00-21:00
 
 * http://www.vlmk.spb.ru/ не подходит, так как относится к самому комбинату
 * https://vk.com/vlmkspb не подходит, так как относится к самому комбинату... хотя кое-что про магазины там говорится
@@ -1673,9 +1777,24 @@
 	website=https://vitaexpress.ru/
 	contact:vk=https://vk.com/aptekivita
 	opening_hours=08:00-22:00
+
+Альтернативные теги:
+
 	operator=ООО «Квазар»
+	operator=ООО «Паллада»
 
 * можно проверить на карте https://vitaexpress.ru/search-apt/
+
+## Во!Молоко
+
+	name=Во!Молоко
+	shop=dairy
+	website=https://vomoloko.ru/
+	contact:vk=https://vk.com/vomoloko
+	opening_hours=09:00-21:00
+
+* можно проверить на карте https://vomoloko.ru/#cont
+* можно проверить в списке https://vk.com/vomoloko
 
 ## Водопад
 
@@ -1900,6 +2019,17 @@
 
 * можно проверить на карте https://www.mywildorchid.ru/findstore/
 
+## ДиКом
+
+	name=ДиКом
+	shop=furniture
+	website=https://www.dikom.ru/
+	contact:vk=https://vk.com/dikomfactory
+	opening_hours=Mo-Fr 10:00-18:00
+	operator=ООО «ДиКом»
+
+* можно проверить в списке и на карте https://www.dikom.ru/contacts/sankt_peterburg/
+
 ## Дикси
 
 	name=Дикси
@@ -1908,6 +2038,8 @@
 	shop=supermarket
 	website=https://dixy.ru/
 	contact:vk=https://vk.com/dixyclub
+	contact:youtube=https://www.youtube.com/user/DixyChannel
+	phone=+7 800 3330201
 	operator=АО «Дикси Юг»
 
 Альтернативные теги:
@@ -1967,6 +2099,17 @@
 	website=https://apteka-doctor.ru/apteka/
 	contact:vk=https://vk.com/aptekadoctor
 	operator=ООО «Доктор V»
+
+## Доктор Моб
+
+	name=Доктор Моб
+	craft=electronics_repair
+	website=https://doctor-mob.ru/
+	contact:vk=https://vk.com/mastrskiedoctormob
+	opening_hours=10:00-20:00
+
+* `website` можно уточнить в списке и на карте https://doctor-mob.ru/map
+* не https://docmob.pro/
 
 ## Доктор Столетов
 
@@ -2534,6 +2677,7 @@
 	shop=bookmaker
 	website=https://www.ligastavok.ru/
 	contact:vk=https://vk.com/ligastavok_official
+	opening_hours=24/7
 
 * можно проверить на карте http://corp.ligastavok.ru/Shops/sankt-peterburg/18
 
@@ -2554,6 +2698,18 @@
 
 * `website` можно уточнить в списке http://spb.lindfors.ru/restorany
 * разные операторы, у одного может быть несколько точек
+
+## Лит.Ra
+
+	name=Лит.Ra
+	alt_name=Лит.Ра
+	shop=alcohol
+	website=http://litra-beer.ru/
+	contact:vk=https://vk.com/litra_beer
+	opening_hours=11:00-22:00
+
+* можно проверить в списке и на карте http://litra-beer.ru/magazini/spb/
+* `website` можно уточнить, но url с указанной выше страницы не получить
 
 ## ЛюдиЛюбят
 
@@ -2846,6 +3002,15 @@
 	opening_hours=08:00-22:00
 
 * можно проверить на карте и в списке https://buket-podarki.ru/main/kontakty.html
+
+## Наша сеть
+
+	name=Наша сеть
+	shop=tobacco
+	website=https://nasha-set.ru/
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить в списке https://nasha-set.ru/howto/contacts/
 
 ## Невис
 
@@ -3268,6 +3433,35 @@
 
 * можно проверить в списке https://www.ponchkoff.ru/shops
 
+## Почта Банк
+
+	name=Почта Банк
+	brand=Почта Банк
+	brand:wikidata=Q24930461
+	amenity=bank
+	website=https://www.pochtabank.ru/
+	contact:vk=https://vk.com/pochtabank
+	opening_hours=Mo-Fr 10:00-19:00
+	operator=ПАО «Почта Банк»
+	operator:wikidata=Q24930461
+
+* можно проверить на карте https://www.pochtabank.ru/map
+* при внешней проверке имеет смысл вводить только те, в которых работает сотрудник банка, то есть синие маркеры с работниками почты пропускать
+
+## Почта России
+
+	brand=Почта России
+	brand:wikidata=Q1502763
+	amenity=post_office
+	website=https://www.pochta.ru/
+	contact:vk=https://vk.com/russianpost
+	operator=ФГУП «Почта России»
+	operator:wikidata=Q1502763
+
+* можно проверить поиском https://www.pochta.ru/offices
+* можно добавить `name=Санкт-Петербург ......`
+* можно добавить `ref=......` с индексом
+
 ## Просто деньги
 
 	name=Просто деньги
@@ -3430,6 +3624,11 @@
 	shop=erotic
 	website=https://www.rozoviykrolik.ru/
 	contact:vk=https://vk.com/rozovyjkrolik
+	operator=ИП Вашкинель К.В.
+
+Альтернативные теги:
+
+	opening_hours=11:00-21:00
 	opening_hours=24/7
 
 * можно проверить на карте и в списке https://www.rozoviykrolik.ru/shop/sankt-peterburg/
@@ -3722,8 +3921,8 @@
 	contact:vk=https://vk.com/sletat_ru
 
 * можно проверить на карте https://sletat.ru/#offices
-* `website` можно уточнить
-* `contact:vk` можно уточнить
+* `website` можно уточнить, например есть http://sletat-shop.ru/
+* `contact:vk` можно уточнить, например есть https://vk.com/sletat_shop
 
 ## Снаряжение
 
@@ -3929,6 +4128,7 @@
 	name=Твои деньги
 	shop=money_lender
 	website=http://www.tvoidengi.com/
+	operator=ООО МКК «Твои Плюс»
 
 * можно проверить в списке http://www.tvoidengi.com/office/
 
@@ -3983,6 +4183,14 @@
 	operator=ИП Гусаров А.М.
 
 * `website` можно уточнить на карте и в списке https://www.terrapevtika.ru/adresa-magazinov/
+
+## Технолог
+
+	name=Технолог
+	shop=supermarket
+	website=http://технологспб.рф/
+
+* можно проверить на карте и в списке http://технологспб.рф/adresa-magazinov.html
 
 ## Токио-City
 
@@ -4279,6 +4487,14 @@
 
 * можно проверить в списке и на карте http://tseh85.ru/#contact-section
 * надо проверять, чем в большей степени является amenity=cafe или shop=bakery
+
+## ЦирюльникЪ
+
+	name=ЦирюльникЪ
+	shop=beauty
+	website=http://salon-hair.ru/
+	contact:vk=https://vk.com/cirulnicspb
+	opening_hours=09:00-21:00
 
 ## Чайникофф
 
