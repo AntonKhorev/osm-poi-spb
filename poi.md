@@ -293,8 +293,14 @@
 	cuisine=coffee_shop
 	website=http://coffeers.ru/
 	contact:vk=https://vk.com/coffeers
+	opening_hours=Mo-Sa 07:30-23:00; Su 09:00-21:00
+
+Альтернативные теги:
+
+	amenity=cafe
 
 * можно проверить на карте внизу страницы http://coffeers.ru/
+* домен возможно упущен
 
 ## Coffeeshop Company
 
@@ -374,7 +380,7 @@
 	brand:wikidata=Q4036922
 	shop=computer
 	website=https://www.dns-shop.ru/
-	contact:vk=https://vk.com/dnsstore
+	contact:vk=https://vk.com/dns_47
 	opening_hours=10:00-21:00
 	operator=ООО «Компьютерный Мир - На Сенной»
 
@@ -387,6 +393,17 @@
 
 * `website` можно уточнить на карте и в списке https://www.dns-shop.ru/shops/spb/
 * поглотил *Кей*
+
+## DNS сервис
+
+	name=DNS сервис
+	brand=DNS
+	brand:wikidata=Q4036922
+	craft=electronics_repair
+	website=https://service.dns-shop.ru/
+	opening_hours=10:00-20:00
+
+* можно проверить на карте и в списке https://service.dns-shop.ru/technical-support/addresses/
 
 ## Dress Code
 
@@ -816,6 +833,15 @@
 
 * `website` можно уточнить на карте и в списке https://www.kuchenland.ru/offices/?arrFilter_pf%5BCITY%5D=5091&set_filter=Y
 
+## KwakInn
+
+	name=KwakInn
+	amenity=pub
+	website=http://kwakinn.ru/
+	contact:vk=https://vk.com/kwakinnpub
+
+* `website` можно уточнить
+
 ## Lady Sharm
 
 	name=Lady Sharm
@@ -1238,10 +1264,10 @@
 
 	name=S2B
 	shop=tobacco
-	website=http://shisha-rf.com/
+	website=https://shisharf.ru/
 	contact:vk=https://vk.com/shisharfshop
 
-* можно проверить на карте и в списке http://shisha-rf.com/shops
+* можно проверить на карте и в списке https://shisharf.ru/shops
 
 ## Samsonite
 
@@ -1337,6 +1363,7 @@
 	operator=ООО «Казна»
 
 * `name` и `website` можно уточнить на карте https://station-hotels.ru/vybrat-otel/na-karte-spb
+* ранее встречалось написание названия по-русски: *Станция*
 
 ## Stayer
 
@@ -2208,12 +2235,12 @@
 
 	name=Верный
 	shop=supermarket
-	website=http://www.verno-info.ru/
+	website=https://www.verno-info.ru/
 	contact:vk=https://vk.com/vernoinfo
 	opening_hours=09:00-22:00
 	operator=ООО «Союз Св. Иоанна Воина»
 
-* `website` можно уточнить на карте http://www.verno-info.ru/shops/
+* можно проверить на карте https://www.verno-info.ru/shops
 
 ## Вижен сервис
 
@@ -2267,7 +2294,9 @@
 	shop=supermarket
 	organic=yes
 	website=https://spb.vkusvill.ru/
-	contact:vk=https://vk.com/izbenka
+	contact:vk=https://vk.com/vkusvill_ru
+	contact:facebook=https://www.facebook.com/vkusvill.ru
+	contact:instagram=https://www.instagram.com/izbenka_vkusvill/
 	operator=ООО «Вкусвилл»
 
 Альтернативные теги:
@@ -2557,12 +2586,12 @@
 
 	name=ДентИдеал
 	amenity=dentist
-	website=http://www.dentideal.ru/
+	website=https://dentideal.ru/
 	contact:vk=https://vk.com/dentideal
 	opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-15:00
 	operator=ООО «ДентИдеал Центр»
 
-* `website` можно уточнить на карте и в списке http://www.dentideal.ru/clinics/
+* `website` можно уточнить на карте и в списке https://dentideal.ru/clinics/
 
 ## Дикая Орхидея
 
@@ -2992,18 +3021,29 @@ contact:vk=https://vk.com/produkty.ermolino
 
 * можно проверить на карте и в списке https://www.mekka-spb.ru/about/
 
+## Катти Сарк
+
+	name=Катти Сарк
+	shop=optician
+	website=http://www.cuttys.ru/
+	opening_hours=10:00-20:00
+	operator=ООО «ЭйчДи Оптика»
+
+* `website` можно уточнить в списке http://www.cuttys.ru/salons/
+
 ## Кетовский коммерческий банк
 
 	name=Кетовский коммерческий банк
 	amenity=bank
 	website=http://www.bank-45.ru/
 	contact:vk=https://vk.com/bank45
-	opening_hours=09:00-21:00
 	operator=ООО КБ «Кетовский»
 
 Альтернативные теги:
 
 	amenity=bureau_de_change
+	opening_hours=09:00-20:00
+	opening_hours=09:00-21:00
 
 * можно проверить в списке http://www.bank-45.ru/index.php/info/2014-02-14-08-56-51.html
 * возможны `website` для пунктов обмены валюты
@@ -3419,13 +3459,24 @@ contact:vk=https://vk.com/produkty.ermolino
 
 * можно проверить в списке http://m65-spb.ru/%D0%BD%D0%B0%D1%88%D0%B8-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D1%8B/
 
+## Магазин горящих путевок
+
+	name=Магазин горящих путевок
+	brand=Сеть магазинов горящих путевок
+	shop=travel_agency
+	website=https://mgp.ru/
+	contact:vk=https://vk.com/public_mgp
+	opening_hours=11:00-20:00
+
+* `website` можно уточнить на карте https://mgp.ru/offices/
+
 ## Магнит
 
 	name=Магнит
 	brand=Магнит
 	brand:wikidata=Q940518
 	shop=supermarket
-	website=http://magnit-info.ru/
+	website=https://magnit-info.ru/
 	contact:vk=https://vk.com/magnitretail
 	operator=АО «Тандер»
 
@@ -3536,6 +3587,15 @@ contact:vk=https://vk.com/produkty.ermolino
 	website=https://www.medokspb.ru/
 
 * можно проверить на карте и в списке https://www.medokspb.ru/shops
+
+## Медтехника №7
+
+	name=Медтехника №7
+	shop=medical_supply
+	website=https://www.medkv.ru/
+	opening_hours=Mo-Fr 10:00-20:30; Sa-Su 10:00-20:00
+
+* `website` можно уточнить в списке и на карте https://www.medkv.ru/kontaktikvik.html
 
 ## Мелодия здоровья
 
@@ -4749,6 +4809,16 @@ contact:vk=https://vk.com/produkty.ermolino
 * можно проверить в списке https://vk.com/spbcinnabon
 * можно проверить в списке и на карте https://cinnabonrussia.com/locations/?location=%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
 
+## Ситилаб
+
+	name=Ситилаб
+	amenity=doctors
+	health_facility:type=laboratory
+	website=https://citilab.ru/
+	contact:vk=https://vk.com/citilabru
+
+* `website` можно уточнить в списке и на карте https://citilab.ru/sankt-peterburg/sankt-peterburg.aspx
+
 ## Ситилинк
 
 	name=Ситилинк
@@ -4834,9 +4904,10 @@ contact:vk=https://vk.com/produkty.ermolino
 	brand:wikidata=Q4426566
 	amenity=bank
 	website=https://sovcombank.ru/
+	contact:vk=https://vk.com/sovcombank
 	opening_hours=Mo-Fr 10:00-20:00; Sa 10:00-17:00
 
-* можно проверить в списке https://sovcombank.ru/office-atm/branches/list/leningradskaya-oblast/
+* можно проверить в списке https://sovcombank.ru/office
 
 ## Согласие
 
@@ -5063,9 +5134,9 @@ contact:vk=https://vk.com/produkty.ermolino
 * `website` можно уточнить в списке http://www.tang-ren.ru/rest.htm
 * у них на карте точек меньше, чем в списке
 
-## Тарелка столовая
+## Тарелка
 
-	name=Тарелка столовая
+	name=Тарелка
 	amenity=fast_food
 	fast_food=cafeteria
 	website=http://tarelkas.ru/
@@ -5073,17 +5144,18 @@ contact:vk=https://vk.com/produkty.ermolino
 
 Альтернативные теги:
 
-	name=Тарелка
+	name=Тарелка столовая
 	opening_hours=08:00-22:00
 	opening_hours=08:00-23:00
 	opening_hours=Su-We 07:30-23:00; Th-Sa 00:00-24:00
 	operator=ООО «Арес»
 	operator=ООО «Гермес»
 	operator=ООО «Прогресс+»
+	operator=ООО «Шалфей»
 
 * `website` можно уточнить в списке http://tarelkas.ru/cafes/
 * `website` можно уточнить на карте http://tarelkas.ru/cafes/map/
-* идёт ребрендинг в *Тарелка*
+* ранее назывались *Тарелка столовая*
 
 ## Твоё
 
