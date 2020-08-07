@@ -130,6 +130,17 @@
 
 * разные операторы
 
+## Ararat Wine
+
+	name=Ararat Wine
+	amenity=bar
+	website=https://www.ararat-wine.ru/
+	contact:vk=https://vk.com/araratwine
+	contact:facebook=https://www.facebook.com/Ararat-Wine-602377876595889/
+	opening_hours=11:00-23:00
+
+* можно проверить в списке https://www.ararat-wine.ru/adresa_magazinov.html
+
 ## Artis
 
 	name=Artis
@@ -268,6 +279,21 @@
 
 * `website` можно уточнить поиском на https://ru.calzedonia.com/custserv/locate_store.cmd
 
+## Carl's Jr.
+
+	name=Carl's Jr.
+	brand=Carl's Jr.
+	brand:wikidata=Q1043486
+	amenity=fast_food
+	cuisine=burger
+	website=http://carlsjr.ru/
+	contact:vk=https://vk.com/carls_jr
+	contact:instagram=https://www.instagram.com/carlsjr_russia/
+	opening_hours=Su-Th 10:00-23:00, Fr-Sa 10:00-04:00
+	operator=ООО «Реал Фуд»
+
+* `website` можно уточнить на карте и в списке http://carlsjr.ru/adresa/spb/
+
 ## Coffee Bon
 
 	name=Coffee Bon
@@ -282,6 +308,7 @@
 	cuisine=coffee_shop
 	website=https://coffee-like.com/
 	contact:vk=https://vk.com/coffeelike78
+	contact:email=hotline@coffee-like.com
 	operator=ООО «Кофе Лайк»
 
 * можно проверить на карте https://coffee-like.com/coffee-like-v-tvoem-gorode
@@ -333,6 +360,7 @@
 Альтернативные теги:
 
 	opening_hours=Mo-Fr 08:00-22:30; Sa 08:30-22:30; Su 09:00-22:30
+	opening_hours=08:00-22:00
 	opening_hours=08:00-23:00
 	operator=ИП Князева Т.А.
 	operator=ООО «Доброе утро, Страна!»
@@ -381,8 +409,8 @@
 	shop=computer
 	website=https://www.dns-shop.ru/
 	contact:vk=https://vk.com/dns_47
-	opening_hours=10:00-21:00
-	operator=ООО «Компьютерный Мир - На Сенной»
+	opening_hours=10:00-22:00
+	operator=ООО «ДНС Ритейл»
 
 Альтернативные теги:
 
@@ -390,6 +418,8 @@
 	name=DNS цифровой
 
 	craft=electronics_repair
+
+	operator=ООО «Компьютерный Мир - На Сенной»
 
 * `website` можно уточнить на карте и в списке https://www.dns-shop.ru/shops/spb/
 * поглотил *Кей*
@@ -1065,25 +1095,25 @@
 	name=One Price Coffee
 	amenity=fast_food
 	cuisine=coffee_shop
-	website=http://onepricecoffee.com/
+	website=https://onepricecoffee.com/
 	contact:vk=https://vk.com/onepricecoffee60
 	opening_hours=08:00-21:00
 	operator=ООО «Азбука ритейла»
 
-* можно проверить на карте и в списке http://onepricecoffee.com/cafe/
+* можно проверить на карте и в списке https://onepricecoffee.com/cafe/
 
 ## OQ
 
 	name=OQ
 	shop=copyshop
-	website=http://copy.spb.ru/
+	website=https://copy.spb.ru/
 	contact:vk=https://vk.com/copyspbru
 
 Альтернативные теги:
 
 	name=OQ Express
 
-* `website` можно уточнить на карте и в списке http://copy.spb.ru/about/kontakti/
+* `website` можно уточнить на карте и в списке https://copy.spb.ru/about/kontakti/
 
 ## Ozon.ru
 
@@ -1355,26 +1385,6 @@
 
 см. *Соната*
 
-## Spar
-
-	name=Spar
-	brand=Spar
-	brand:wikidata=Q610492
-	shop=supermarket
-	website=http://www.sparspb.ru/
-	contact:vk=https://vk.com/spar_spb
-	contact:facebook=https://www.facebook.com/sparspb
-	operator=ООО «ТД Интерторг»
-	operator:wikidata=Q16655827
-
-Альтернативные теги:
-
-	name=Spar Express
-	opening_hours=24/7
-	opening_hours=08:00-23:00
-
-* `website` можно уточнить в списке и на карте http://www.sparspb.ru/index/magaziny
-
 ## Station
 
 	name=Station
@@ -1426,10 +1436,12 @@
 
 Альтернативные теги:
 
+	name=Обед в саду
 	opening_hours=09:00-22:00
 	opening_hours=24/7
 
 * можно проверить в списке и на карте http://stolovayastreet.ru/#contact
+* на пл. Восстания название на бегущей строке: *Streat*
 
 ## Subway
 
@@ -1489,14 +1501,16 @@
 	amenity=bar
 	website=http://www.barspb.ru/
 	contact:vk=https://vk.com/barspb_official
+	contact:instagram=https://www.instagram.com/spb_bar/
+	operator=ООО «Авангард»
 
 Альтернативные теги:
 
 	opening_hours=Su-Th 12:00-01:00, Fr-Sa 12:00-05:00
 	opening_hours=Su-Th 12:00-02:00, Fr-Sa 12:00-05:00
+	opening_hours=Su-Th 13:00-01:00, Fr-Sa 13:00-03:00
 
 * можно проверить на карте http://www.barspb.ru/contacts.html
-* домен упущен
 
 ## Tele2
 
@@ -1723,7 +1737,7 @@
 	brand=Watsons
 	brand:wikidata=Q7974785
 	shop=chemist
-	website=https://watsons.com.ru/
+	website=https://www.watsons.com.ru/
 	contact:vk=https://vk.com/watsonsrussia
 	opening_hours=09:00-22:00
 	operator=ООО «Спектр Групп»
@@ -1732,7 +1746,7 @@
 
 	name=Спектр
 
-* `website` можно уточнить на карте https://watsons.com.ru/adresa-magazinov
+* можно проверить на карте https://www.watsons.com.ru/mahazyny
 * *Спектр* [был куплен *Watsons*](https://watsons.com.ru/o-kompanii), возможно ещё остались старые названия
 
 ## Wildberries
@@ -1744,6 +1758,10 @@
 	reservation=required
 	website=https://www.wildberries.ru/
 	contact:vk=https://vk.com/wildberries_shop
+
+Альтернативные теги:
+
+	shop=outpost
 
 * можно проверить в списке https://www.wildberries.ru/services/punkty-samovyvoza/sankt-peterburg
 
@@ -1925,6 +1943,16 @@
 	opening_hours=Mo-Sa 10:00-20:00; Su 11:00-19:00
 
 * `website` можно уточнить в списке http://www.ankershop.ru/stores/
+
+## Апельсин
+
+	name=Апельсин
+	shop=beauty
+	website=https://apelsinsalon.ru/
+	contact:vk=https://vk.com/apelsin_salon
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить
 
 ## Аркадия
 
@@ -2233,16 +2261,17 @@
 	name=Буше
 	amenity=cafe
 	shop=pastry
-	website=http://bushe.ru/
+	website=https://bushe.ru/
 	contact:vk=https://vk.com/bushe.bakery
-	operator=ООО «ПКД «Венец»
 
 Альтернативные теги:
 
 	opening_hours=08:00-22:00
 	opening_hours=08:00-23:00
+	operator=ООО «Буше»
+	operator=ООО «ПКД «Венец»
 
-* можно проверить на карте http://bushe.ru/places
+* можно проверить на карте https://bushe.ru/places
 
 ## Бюро
 
@@ -2336,6 +2365,16 @@
 
 * можно проверить в списке http://www.vikingbank.ru/viking_new2.nsf/ru/offices
 
+## Виктория
+
+	name=Виктория
+	shop=supermarket
+	website=https://www.victoria-group.ru/
+	contact:vk=https://vk.com/supermarket_victoria
+	operator=ООО «Виктория-Балтия»
+
+* `website` можно уточнить на карте https://www.victoria-group.ru/company/shops/sankt-peterburg/
+
 ## Виллерой и Бох
 
 	name=Виллерой и Бох
@@ -2346,6 +2385,16 @@
 	website=https://www.villeroy-boch.ru/
 
 * можно проверить на карте https://www.villeroy-boch.ru/adresa/stolovaja-posuda.html
+
+## ВинЛаб
+
+	name=ВинЛаб
+	shop=alcohol
+	website=https://www.winelab.ru/
+	contact:facebook=https://www.facebook.com/winelabru
+	opening_hours=10:00-22:00
+
+* можно проверить на карте https://www.winelab.ru/store-finder
 
 ## Вита Экспресс
 
@@ -2373,7 +2422,8 @@
 	website=https://spb.vkusvill.ru/
 	contact:vk=https://vk.com/vkusvill_ru
 	contact:facebook=https://www.facebook.com/vkusvill.ru
-	contact:instagram=https://www.instagram.com/izbenka_vkusvill/
+	contact:instagram=https://www.instagram.com/vkusvill_ru/
+	contact:twitter=https://twitter.com/we_are_vkusvill
 	operator=ООО «Вкусвилл»
 
 Альтернативные теги:
@@ -2391,6 +2441,10 @@
 	website=http://spbvmeste.ru/
 	opening_hours=24/7
 	operator=ООО «Универсам Вместе»
+
+Альтернативные теги:
+
+	shop=supermarket
 
 * можно проверить на карте и в списке http://spbvmeste.ru/kontakty/
 
@@ -2623,7 +2677,7 @@
 
 	name=Градусы всего мира
 	shop=alcohol
-	website=http://www.gradusi.net/
+	website=https://www.gradusi.net/
 	contact:vk=https://vk.com/gradusi_market
 	opening_hours=09:00-22:00
 
@@ -2632,7 +2686,7 @@
 	operator=ООО «Брют»
 	operator=ООО «Винтаж»
 
-* `website` можно уточнить на карте и в списке http://www.gradusi.net/shops/
+* `website` можно уточнить на карте и в списке https://www.gradusi.net/shops/
 
 ## Графит
 
@@ -2670,6 +2724,17 @@
 	opening_hours=Mo-Fr 12:00-20:00
 
 * `website` можно уточнить в списке и на карте https://www.3342221.ru/kontakty/
+
+## Дед Хо
+
+	name=Дед Хо
+	amenity=cafe
+	website=https://dedho.ru/
+	contact:vk=https://vk.com/dedho_cafe
+	opening_hours=10:00-23:00
+	operator=ИП Мохов Виктор Александрович
+
+* `website` можно уточнить в списке https://dedho.ru/#store
 
 ## Деньга
 
@@ -2858,6 +2923,15 @@
 * разные операторы
 * некоторые или даже все *Япоши* могли переименоваться в *Евразии*
 
+## Евро кебаб
+
+	name=Евро кебаб
+	amenity=fast_food
+	website=https://eurokebab.ru/
+	contact:vk=https://vk.com/eurokebab
+
+* можно проверить на карте https://eurokebab.ru/restorany/
+
 ## ЕвропаПроф
 
 	name=ЕвропаПроф
@@ -2980,7 +3054,7 @@ contact:vk=https://vk.com/produkty.ermolino
 
 	name=Икра и рыба
 	shop=seafood
-	website=http://икраирыба.рф/
+	website=https://икраирыба.рф/
 	contact:vk=https://vk.com/ikrairybaspb
 	opening_hours=09:00-21:00
 
@@ -2988,7 +3062,7 @@ contact:vk=https://vk.com/produkty.ermolino
 
 	brand=Lucky Fish
 
-* можно проверить в списке http://икраирыба.рф/adresa-magazinov/
+* можно проверить в списке https://икраирыба.рф/adresa-magazinov/
 * хотя иногда виднее надпись *Lucky Fish*, в качестве названия используют *Икра и рыба*: ![Икра и рыба](ikrairyba.jpg)
 
 ## Императорский фарфор
@@ -3014,12 +3088,17 @@ contact:vk=https://vk.com/produkty.ermolino
 ## Инвитро
 
 	name=Инвитро
+	int_name=Invitro
 	brand=Инвитро
 	brand:wikidata=Q4200546
 	amenity=doctors
 	website=https://www.invitro.ru/
 	contact:vk=https://vk.com/invitro
 	operator=ООО «Инвитро СПб»
+
+Альтернативные теги:
+
+	name=Invitro
 
 * `website` можно уточнить на карте https://www.invitro.ru/offices/piter/
 
@@ -3332,6 +3411,8 @@ contact:vk=https://vk.com/produkty.ermolino
 ## Красное & Белое
 
 	name=Красное & Белое
+	brand:wikidata=Q24933790
+	brand=Красное & Белое
 	shop=alcohol
 	website=https://krasnoeibeloe.ru/
 	contact:vk=https://vk.com/krasnoebeloe
@@ -3584,16 +3665,36 @@ contact:vk=https://vk.com/produkty.ermolino
 	brand=Магнит
 	brand:wikidata=Q940518
 	shop=supermarket
-	website=https://magnit-info.ru/
+	website=https://magnit.ru/
 	contact:vk=https://vk.com/magnitretail
+	contact:facebook=https://www.facebook.com/magnitretail
+	contact:ok=https://ok.ru/magnitinfo
+	contact:twitter=https://twitter.com/magnitretail
+	contact:youtube=https://www.youtube.com/channel/UCoWX1GhHlSJGwKpCEJitsoA/
 	operator=АО «Тандер»
 
 Альтернативные теги:
 
+	opening_hours=08:00-22:00
 	opening_hours=08:00-23:00
 	opening_hours=09:30-22:30
 
-* можно проверить на карте и в списке http://magnit-info.ru/buyers/adds/
+* `website` можно уточнить на карте https://magnit.ru/shops/
+
+## Магнит Косметик
+
+	name=Магнит Косметик
+	brand=Магнит Косметик
+	brand:wikidata=Q62592348
+	shop=chemist
+	website=https://magnitcosmetic.ru/
+	contact:vk=https://vk.com/magnitcosmetic
+	contact:instagram=https://www.instagram.com/magnitcosmetic/
+	contact:ok=https://ok.ru/magnitcosmetic
+	phone=+7 800 2009002
+	opening_hours=10:00-21:00
+
+* `website` можно уточнить
 
 ## Макдоналдс
 
@@ -3715,6 +3816,13 @@ contact:vk=https://vk.com/produkty.ermolino
 	operator=ООО «Мелодия здоровья 1»
 
 * можно проверить на карте и в списке http://spb.melzdrav.ru/apteki
+
+## Менар
+
+	name=Менар
+	amenity=training
+	website=https://www.menar-rf.ru/
+	contact:vk=https://vk.com/menar_russia
 
 ## Минута Маркет
 
@@ -3855,26 +3963,6 @@ contact:vk=https://vk.com/produkty.ermolino
 
 * можно проверить на карте https://kpk-nb.ru/kontaktyi.html
 
-## Народная 7Я семьЯ
-
-	name=Народная 7Я семьЯ
-	brand=Народная 7Я семьЯ
-	brand:wikidata=Q4032436
-	shop=supermarket
-	website=http://www.7-ya.ru/
-	contact:vk=https://vk.com/7yarus
-	operator=ООО «ТД Интерторг»
-	operator:wikidata=Q16655827
-
-Альтернативные теги:
-
-	name=Большая семья
-	opening_hours=07:00-23:00
-	opening_hours=08:00-22:00
-	opening_hours=24/7
-
-* можно проверить на карте http://www.7-ya.ru/gmaps/show_map.php?city=spb
-
 ## Наследие
 
 	name=Наследие
@@ -3894,6 +3982,15 @@ contact:vk=https://vk.com/produkty.ermolino
 	opening_hours=08:00-22:00
 
 * можно проверить на карте и в списке https://buket-podarki.ru/main/kontakty.html
+
+## Народный кондитер
+
+	name=Народный кондитер
+	shop=pastry
+	website=http://narodny-konditer.ru/
+	contact:vk=https://vk.com/narodny_konditer
+
+* `website` можно уточнить в списке и на карте http://narodny-konditer.ru/gde
 
 ## Наша сеть
 
@@ -4002,6 +4099,15 @@ contact:vk=https://vk.com/produkty.ermolino
 	opening_hours=24/7
 
 * `website` можно уточнить в списке http://oazis-spb.ru/address
+
+## Объединенный ломбард
+
+	name=Объединенный ломбард
+	shop=pawnbroker
+	website=https://lombardspb.ru/
+	operator=АО «Объединенный ломбард»
+
+* можно проверить в списке https://lombardspb.ru/united-lombard-spb-address/
 
 ## Озерки
 
@@ -4226,9 +4332,10 @@ contact:vk=https://vk.com/produkty.ermolino
 	phone=+7 812 4483010
 	operator=АО «Торговый дом «Перекресток»
 
-* `website` можно уточнить в списке https://www.perekrestok.ru/shops
-* `website` можно уточнить на карте https://www.perekrestok.ru/shops/map
+* можно проверить в списке https://www.perekrestok.ru/shops
+* можно проверить на карте https://www.perekrestok.ru/shops/map
 * `phone` бывают разные, здесь указан тот, который у большинства в СПб
+* иностранные написания брендов есть на сайте https://www.x5.ru/en/Pages/Home.aspx
 
 ## Петербургские аптеки
 
@@ -5150,6 +5257,15 @@ contact:vk=https://vk.com/produkty.ermolino
 
 * `website` можно уточнить на карте http://ctoma.ru/clinics
 
+## Студия пилатеса Марии Варакиной
+
+	name=Студия пилатеса Марии Варакиной
+	leisure=fitness_centre
+	website=https://www.mvpilates.ru/
+	contact:vk=https://vk.com/club75857907
+
+* `website` можно уточнить
+
 ## СуперХостел
 
 	name=СуперХостел
@@ -5191,6 +5307,8 @@ contact:vk=https://vk.com/produkty.ermolino
 	shop=optician
 	website=https://happylook.ru/
 	contact:vk=https://vk.com/happylook_ru
+	contact:facebook=https://www.facebook.com/happylook.ru/
+	contact:instagram=https://www.instagram.com/happylook.ru/
 
 Альтернативные теги:
 
@@ -5199,7 +5317,7 @@ contact:vk=https://vk.com/produkty.ermolino
 	operator=ООО «Гранд Оптик»
 	operator=ООО «Оптик Комфорт»
 
-* `website` можно уточнить на карте и в списке https://happylook.ru/stores/spb/
+* `website` можно уточнить на карте и в списке https://happylook.ru/stores/
 
 ## Табак Sity
 
@@ -5225,6 +5343,16 @@ contact:vk=https://vk.com/produkty.ermolino
 	operator=ООО «Омега»
 
 * `website` можно уточнить
+
+## Табакон
+
+	name=Табакон
+	shop=tobacco
+	website=https://tabakon.ru/
+	contact:vk=https://vk.com/id368495809
+	opening_hours=24/7
+
+* можно проверить на карте и в списке https://tabakon.ru//index.php?dispatch=pickup.view
 
 ## Таврический
 
@@ -5355,6 +5483,18 @@ contact:vk=https://vk.com/produkty.ermolino
 
 * можно проверить на карте и в списке http://технологспб.рф/adresa-magazinov.html
 
+## Тёплого Хлеба и Под Одеяло
+
+	name=Тёплого Хлеба и Под Одеяло
+	short_name=ТХПО
+	amenity=cafe
+	website=https://bushe.ru/
+	contact:vk=https://vk.com/warmbreadinbed
+	opening_hours=09:00-21:00
+	operator=ООО «ПКД «Венец»
+
+* можно проверить на карте https://bushe.ru/places
+
 ## Токио-City
 
 	name=Токио-City
@@ -5441,7 +5581,7 @@ contact:vk=https://vk.com/produkty.ermolino
 	operator=ООО «Успех»
 	operator=ООО «Южное»
 
-* можно проверить на карте https://www.r-ulybka.ru/u-store/
+* можно проверить на карте https://www.r-ulybka.ru/stores/
 
 ## Университетская аптека
 
@@ -5834,6 +5974,15 @@ contact:vk=https://vk.com/produkty.ermolino
 
 * можно проверить на карте и в списке http://obuvshag.ru/magaziny/
 
+## Шиповник
+
+	name=Шиповник
+	amenity=pharmacy
+	website=https://apteka-shipovnik.ru/
+	opening_hours=09:00-21:00
+
+* `website` можно уточнить на карте https://apteka-shipovnik.ru/address/
+
 ## Шоколадница
 
 	name=Шоколадница
@@ -6083,6 +6232,7 @@ contact:vk=https://vk.com/produkty.ermolino
 	contact:vk=https://vk.com/yarkiy
 	contact:email=info@yarkiy.ru
 	opening_hours=09:00-21:00
+	operator=ООО «Актив-фото»
 
 * `website` можно уточнить на карте и в списке https://www.yarkiy.ru/stores
 * возможно более правильное название - *Яркий фотомаркет* - так на сайте, на логотипе "фотомаркет" мелко написано

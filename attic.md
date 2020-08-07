@@ -1,3 +1,24 @@
+## Spar
+
+	name=Spar
+	brand=Spar
+	brand:wikidata=Q610492
+	shop=supermarket
+	website=http://www.sparspb.ru/
+	contact:vk=https://vk.com/spar_spb
+	contact:facebook=https://www.facebook.com/sparspb
+	operator=ООО «ТД Интерторг»
+	operator:wikidata=Q16655827
+
+Альтернативные теги:
+
+	name=Spar Express
+	opening_hours=24/7
+	opening_hours=08:00-23:00
+
+* `website` можно уточнить в списке и на карте http://www.sparspb.ru/index/magaziny
+* закрыты по СПб, некоторые места заняты *Виктроией*, *Дикси* и *Магнитом*
+
 ## Кей
 
 	name=Кей
@@ -9,6 +30,27 @@
 	operator=ООО «Кей»
 
 * поглощён *DNS*
+
+## Народная 7Я семьЯ
+
+	name=Народная 7Я семьЯ
+	brand=Народная 7Я семьЯ
+	brand:wikidata=Q4032436
+	shop=supermarket
+	website=http://www.7-ya.ru/
+	contact:vk=https://vk.com/7yarus
+	operator=ООО «ТД Интерторг»
+	operator:wikidata=Q16655827
+
+Альтернативные теги:
+
+	name=Большая семья
+	opening_hours=07:00-23:00
+	opening_hours=08:00-22:00
+	opening_hours=24/7
+
+* можно проверить на карте http://www.7-ya.ru/gmaps/show_map.php?city=spb
+* закрыты, некоторые места заняты *Вместе*, *Магнитом* и *РеалЪом*
 
 ## Полушка
 
